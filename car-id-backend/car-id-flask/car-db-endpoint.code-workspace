@@ -1,0 +1,13 @@
+{
+    "folders": [
+        {
+            "path": "."
+        },
+        {
+            "path": "..\\car-id-scraper"
+        },
+        {
+            "path": "..\\car-id-processor"
+        }
+    ]
+}

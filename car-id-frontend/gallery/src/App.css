@@ -1,0 +1,65 @@
+:root {
+  --text-color: rgb(0, 38, 255);
+}
+
+body {
+
+  /* background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover; */
+  background-color: rgb(116, 7, 116);
+  height: 100%;
+  color: var(--text-color);
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 30vh;
+  text-align: center;
+
+}
+
+h1 {
+  margin: 0;
+  font-size: 5em;
+  margin-bottom: .5rem;
+}
+.carousel{
+  margin-top:5em;
+}
+.input {
+  border: 0px;
+  border-radius: .3em;
+  padding: .25rem;
+  width: 10em;
+  margin-right: .5rem;
+  text-align: center;
+  color: var(--text-color);
+}
+
+select {
+  color: var(--text-color);
+  width: 15em;
+  font-size: 1.5em;
+  text-align: center;
+  display: block;
+}
+.carousel-inner > .item > img {
+
+  margin: 0 auto;
+}
+small {
+  font-size: .5rem;
+  padding-left: .5rem;
+}
+
+.equals {
+  font-weight: bold;
+  font-size: 2rem;
+}
+
+
+/* .main-container {
+  display: flex;
+  min-height: 100vh;
+} */

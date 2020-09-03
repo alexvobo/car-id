@@ -1,0 +1,33 @@
+body {
+  background-color: grey;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  text-align: center;
+}
+.drop-outline{
+  padding:5em;
+  border: dashed 4px black;
+}
+.drop-card {
+  background-color: rgb(255, 254, 254);
+  border-radius: .25em;
+  padding:2em;
+}
+.drop-zone-text{
+  font-size:1.5em;
+}
+.instructions {
+  position:relative;
+  top:25px;
+}
+.instructions > *{
+  display:block;
+}
+.big-spinner{
+  font-size:2em;
+  width:100px;
+  height:100px;
+}
