@@ -2,7 +2,7 @@ from flask import Flask, jsonify
 import json
 import random
 from flask_cors import CORS
-
+import datetime
 app = Flask(__name__)
 CORS(app)
 
@@ -14,7 +14,8 @@ def search(list_of_dicts, make, model):
 
 def find_years(yearString):
     # Parses year string with the format "2010 - 2019" and returns list of all the years i.e. 2010, 2011, ... 2019
-    return [year for year in range(int(yearString[:4]), int(yearString[-4:])+1)]
+    start, end = yearString.split("-")
+    return [str(year) for year in range(int(start), int(end)+1)]
 
 
 def all_keys(list_of_dicts):
@@ -30,7 +31,7 @@ def filter_text(items, models=False):
             # Filtering Models
             if len(word_list) > 1:
                 filt_items.append(
-                    " ".join(subword.replace("klasse", "class").title()
+                    " ".join(subword.title()
                              for subword in word_list))
             else:
                 if len(word_list[0]) <= 3:
@@ -97,17 +98,20 @@ def get_make_model_years(make, model):
 def get_make_model_year(make, model, year):
     #! Need to make this work for ex. 2003-2015 give all models up to the end date
     if db:
-        data = search(db, make, model)[model]
-        for d in data:
-            print(year)
-            if year is d['year']:
+        data = search(db, make, model)
+        for d in data[model]:
+            print("here" + make)
+            formatted_year = "-".join([x.strip()
+                                       for x in d['year'].split('-')])
+            print(formatted_year)
+            if year == formatted_year:
                 return(jsonify(({model: d})))
-            elif "-" in year:
+            elif "-" not in year:
+                print("here2" + make)
                 year_range = find_years(d['year'])
-                int_year = year.split("-")[0]
-                if int(int_year) in year_range:
+                if year.strip() in year_range:
                     return(jsonify(({model: d})))
-        return(jsonify(search(db, make, model)))
+        return(jsonify(data))
 
 
 if __name__ == '__main__':

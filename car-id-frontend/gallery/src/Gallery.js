@@ -1,10 +1,10 @@
 import React from "react";
 import Container from "react-bootstrap/Container";
 import Row from "react-bootstrap/Row";
+import Col from "react-bootstrap/Col";
 import ControlledCarousel from "./ControlledCarousel";
 function Gallery(props) {
   const {
-    carDB,
     listMakes,
     selectedMake,
     listModels,
@@ -20,46 +20,50 @@ function Gallery(props) {
   return (
     <Container fluid>
       <Row>
-        <div className="equals">Make</div>
-        <select
-          placeholder="Select A Brand"
-          value={selectedMake}
-          onChange={onChangeMake}>
-          {listMakes.map((opt) => (
-            <option key={opt} value={opt}>
-              {opt}
-            </option>
-          ))}
-        </select>
+        <Col>
+          <div className="equals">Make</div>
+          <select
+            placeholder="Select A Brand"
+            value={selectedMake}
+            onChange={onChangeMake}>
+            {listMakes.map((opt, index) => (
+              <option key={index} value={opt}>
+                {opt}
+              </option>
+            ))}
+          </select>
+        </Col>
+        <Col>
+          <div className="equals">Model</div>
+          <select
+            placeholder="Select A Model"
+            value={selectedModel}
+            onChange={onChangeModel}>
+            {listModels.map((opt, index) => (
+              <option key={index} value={opt}>
+                {opt}
+              </option>
+            ))}
+          </select>
+        </Col>
+        <Col>
+          <div className="equals">Year</div>
+          <select
+            placeholder="Generations"
+            value={selectedYear}
+            onChange={onChangeYear}>
+            {listYears.map((opt,index) => (
+              <option key={index} value={opt}>
+                {opt}
+              </option>
+            ))}
+          </select>
+        </Col>
       </Row>
       <Row>
-        <div className="equals">Model</div>
-        <select
-          placeholder="Select A Model"
-          value={selectedModel}
-          onChange={onChangeModel}>
-          {listModels.map((opt) => (
-            <option key={opt} value={opt}>
-              {opt}
-            </option>
-          ))}
-        </select>
-      </Row>
-      <Row>
-        <div className="equals">Year</div>
-        <select
-          placeholder="Generations"
-          value={selectedYear}
-          onChange={onChangeYear}>
-          {listYears.map((opt) => (
-            <option key={opt} value={opt}>
-              {opt}
-            </option>
-          ))}
-        </select>
-      </Row>
-      <Row>
-        <ControlledCarousel images={imageList} />
+        <Container className="image">
+          <ControlledCarousel images={imageList} />
+        </Container>
       </Row>
     </Container>
   );

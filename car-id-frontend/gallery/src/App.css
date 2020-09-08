@@ -1,5 +1,5 @@
 :root {
-  --text-color: rgb(0, 38, 255);
+  --text-color: rgb(46, 17, 211);
 }
 
 body {
@@ -7,13 +7,12 @@ body {
   /* background-position: center;
   background-repeat: no-repeat;
   background-size: cover; */
-  background-color: rgb(116, 7, 116);
+  background-color: rgb(106, 175, 202);
   height: 100%;
   color: var(--text-color);
   margin: 0;
   display: flex;
   justify-content: center;
-  align-items: center;
   min-height: 30vh;
   text-align: center;
 
@@ -24,9 +23,11 @@ h1 {
   font-size: 5em;
   margin-bottom: .5rem;
 }
-.carousel{
-  margin-top:5em;
+
+.carousel {
+  margin-top: 5em;
 }
+
 .input {
   border: 0px;
   border-radius: .3em;
@@ -42,12 +43,23 @@ select {
   width: 15em;
   font-size: 1.5em;
   text-align: center;
-  display: block;
+
 }
-.carousel-inner > .item > img {
+
+.selectFields {
+  text-align: center;
+
+}
+
+.selectFields>* {
+  margin: auto;
+}
+
+.carousel-inner>.item>img {
 
   margin: 0 auto;
 }
+
 small {
   font-size: .5rem;
   padding-left: .5rem;
@@ -58,6 +70,12 @@ small {
   font-size: 2rem;
 }
 
+.big-spinner {
+  font-size: 2em;
+  width: 100px;
+  height: 100px;
+  margin-top: 5em;
+}
 
 /* .main-container {
   display: flex;
