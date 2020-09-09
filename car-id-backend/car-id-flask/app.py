@@ -1,8 +1,7 @@
 from flask import Flask, jsonify
 import json
-import random
 from flask_cors import CORS
-import datetime
+
 app = Flask(__name__)
 CORS(app)
 
@@ -50,7 +49,7 @@ def filter_text(items, models=False):
 
 
 # This is our main file
-with open("cardb-test.json", "r") as f:
+with open("cardb.json", "r") as f:
     db = json.load(f)
 
 

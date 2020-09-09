@@ -5,8 +5,6 @@ import Spinner from "react-bootstrap/Spinner";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "./App.css";
 
-import im2 from "./test_imgs/lambo2.jpg";
-import im3 from "./test_imgs/lambo3.jpg";
 const BASE_URL = "http://127.0.0.1:5000/";
 
 function prep_for_api(string, year = false) {
@@ -20,6 +18,7 @@ function prep_for_api(string, year = false) {
     return string.toLowerCase().replace(/ /g, "-");
   }
 }
+
 function App() {
   const [listMakes, setListMakes] = useState([]);
   const [listModels, setListModels] = useState([]);
@@ -29,12 +28,14 @@ function App() {
   const [year, setYear] = useState("");
   const [imageList, setimageList] = useState([]);
   const [loading, setloading] = useState(true);
+
   useEffect(() => {
     // Get Makes
     fetch(BASE_URL)
       .then((res) => res.json())
       .then((data) => {
-        setMake(data[0]);
+        //Defaults to 'Bugatti'
+        setMake(data[11]);
         setListMakes(data);
       });
   }, []);
@@ -46,14 +47,18 @@ function App() {
       fetch(BASE_URL + fetchMake)
         .then((res) => res.json())
         .then((data) => {
-          setModel(data[0]);
+          if (make === "Bugatti") {
+            //Defaults to "Chiron"
+            setModel(data[1]);
+          } else {
+            setModel(data[0]);
+          }
           setListModels(data);
         });
     }
   }, [make]);
   useEffect(() => {
     // Get Years
-
     var fetchMake = prep_for_api(make);
     var fetchModel = prep_for_api(model);
     if (fetchMake && fetchModel) {
@@ -81,13 +86,11 @@ function App() {
             setimageList(imageUrls);
             setloading(false);
           }
-          //setimageList([im2,im3]);
         }
       });
   }, [year]);
   return (
-    <div id="main" className="main-container">
-      <h1>Find Car</h1>
+    <>
       {!loading ? (
         <Gallery
           onChangeMake={(e) => setMake(e.target.value)}
@@ -104,7 +107,7 @@ function App() {
       ) : (
         <Spinner className="big-spinner" animation="border" variant="light" />
       )}
-    </div>
+    </>
   );
 }
 

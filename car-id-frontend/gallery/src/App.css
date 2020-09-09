@@ -1,5 +1,41 @@
 :root {
-  --text-color: rgb(46, 17, 211);
+  --text-color: rgb(0, 0, 0);
+
+}
+
+#root {
+  width: 100vw;
+
+}
+
+.awssld {
+  --slider-height-percentage: 60%;
+  --slider-transition-duration: 525ms;
+  --organic-arrow-thickness: 4px;
+  --organic-arrow-border-radius: 0px;
+  --organic-arrow-height: 40px;
+  --organic-arrow-color: #ffffff8a;
+  --control-button-width: 10%;
+  --control-button-height: 25%;
+  --control-button-background: transparent;
+  --control-bullet-color: transparent;
+  --control-bullet-active-color: transparent;
+  --loader-bar-color: #00ff00;
+  --loader-bar-height: 8px;
+}
+
+.awssld__bullets {
+  display: none;
+}
+
+
+
+:focus {
+  outline: none;
+}
+
+::-moz-focus-inner {
+  border: 0;
 }
 
 body {
@@ -7,16 +43,15 @@ body {
   /* background-position: center;
   background-repeat: no-repeat;
   background-size: cover; */
-  background-color: rgb(106, 175, 202);
-  height: 100%;
+
   color: var(--text-color);
   margin: 0;
   display: flex;
   justify-content: center;
-  min-height: 30vh;
   text-align: center;
 
 }
+
 
 h1 {
   margin: 0;
@@ -24,12 +59,10 @@ h1 {
   margin-bottom: .5rem;
 }
 
-.carousel {
-  margin-top: 5em;
-}
 
 .input {
   border: 0px;
+
   border-radius: .3em;
   padding: .25rem;
   width: 10em;
@@ -39,11 +72,16 @@ h1 {
 }
 
 select {
+  border: none;
   color: var(--text-color);
   width: 15em;
   font-size: 1.5em;
   text-align: center;
+  background-color: #ffffff70;
+}
 
+option {
+  background-color: #ffffff41;
 }
 
 .selectFields {
@@ -55,10 +93,17 @@ select {
   margin: auto;
 }
 
-.carousel-inner>.item>img {
 
-  margin: 0 auto;
+.selectBoxes {
+  position: absolute;
+  margin-left: auto;
+  margin-right: auto;
+  left: 0;
+  right: 0;
+  text-align: center;
+  z-index: 10;
 }
+
 
 small {
   font-size: .5rem;
@@ -68,6 +113,8 @@ small {
 .equals {
   font-weight: bold;
   font-size: 2rem;
+  color: #ffffffcb;
+  visibility: hidden;
 }
 
 .big-spinner {
@@ -77,7 +124,10 @@ small {
   margin-top: 5em;
 }
 
-/* .main-container {
-  display: flex;
-  min-height: 100vh;
-} */
+.footer {
+  background-color: white;
+  width: 100%;
+
+  text-align: center;
+  margin: auto;
+}
