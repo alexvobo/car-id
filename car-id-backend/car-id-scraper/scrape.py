@@ -83,14 +83,6 @@ with open("cardib.json", "a+") as f:
 for count, make in enumerate(list_make_urls):
     make_name = make[make[:len(make)-1].rfind("/")+1:len(make)-1]
 
-    # & TESTING PUPOSES ONLY!!
-    # """ If we have logged the model, skip """
-    # existing_makes = car_database.keys()
-
-    # if make_name in existing_makes:
-    #     print('exists {}'.format(make_name))
-    #     continue
-    # & TESTING PUPOSES ONLY!!
     driver.get(make)
 
     model_soup = BeautifulSoup(driver.page_source, "html.parser")
@@ -121,8 +113,7 @@ for count, make in enumerate(list_make_urls):
             print('exists {}'.format(model_name))
             time.sleep(2)
             continue
-        # * SO THAT WE CAN CHECK TO SEE IF THE YEAR
-        # * IS IN OUR JSON ALREADY
+        # * SO THAT WE CAN CHECK TO SEE IF THE MODEL YEAR IS IN OUR JSON ALREADY
 
         model_details[model_name] = []
         sub_model_soup = BeautifulSoup(
