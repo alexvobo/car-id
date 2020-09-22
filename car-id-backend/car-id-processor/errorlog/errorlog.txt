@@ -1,0 +1,755 @@
+D:\Machine Learning\train\alfa-romeo_156-sportwagon_2000-2003\alfa-romeo-156-sportwagon-2000 - 2003-(0).jpg
+D:\Machine Learning\train\alfa-romeo_156-sportwagon_2000-2003\alfa-romeo-156-sportwagon-2000 - 2003-(14).jpg
+D:\Machine Learning\train\alfa-romeo_156-sportwagon_2000-2003\alfa-romeo-156-sportwagon-2000 - 2003-(2).jpg
+D:\Machine Learning\train\alfa-romeo_156-sportwagon_2002-2005\alfa-romeo-156-sportwagon-2002 - 2005-(1).jpg
+D:\Machine Learning\train\alfa-romeo_156-sportwagon_2002-2005\alfa-romeo-156-sportwagon-2002 - 2005-(17).jpg
+D:\Machine Learning\train\alfa-romeo_156_1997-2003\alfa-romeo-156-1997 - 2003-(12).jpg
+D:\Machine Learning\train\alfa-romeo_156_1997-2003\alfa-romeo-156-1997 - 2003-(13).jpg
+D:\Machine Learning\train\alfa-romeo_156_1997-2003\alfa-romeo-156-1997 - 2003-(23).jpg
+D:\Machine Learning\train\alfa-romeo_156_2001-2005\alfa-romeo-156-2001 - 2005-(1).jpg
+D:\Machine Learning\train\alfa-romeo_156_2001-2005\alfa-romeo-156-2001 - 2005-(19).jpg
+D:\Machine Learning\train\alfa-romeo_156_2001-2005\alfa-romeo-156-2001 - 2005-(23).jpg
+D:\Machine Learning\train\alfa-romeo_156_2003-2005\alfa-romeo-156-2003 - 2005-(18).jpg
+D:\Machine Learning\train\alfa-romeo_156_2003-2005\alfa-romeo-156-2003 - 2005-(25).jpg
+D:\Machine Learning\train\alfa-romeo_159-sportwagon_2006-2011\alfa-romeo-159-sportwagon-2006 - 2011-(0).jpg
+D:\Machine Learning\train\alfa-romeo_159-sportwagon_2006-2011\alfa-romeo-159-sportwagon-2006 - 2011-(30).jpg
+D:\Machine Learning\train\alfa-romeo_159-sportwagon_2006-2011\alfa-romeo-159-sportwagon-2006 - 2011-(41).jpg
+D:\Machine Learning\train\alfa-romeo_164_1988-1998\alfa-romeo-164-1988 - 1998-(15).jpg
+D:\Machine Learning\train\alfa-romeo_164_1988-1998\alfa-romeo-164-1988 - 1998-(26).jpg
+D:\Machine Learning\train\alfa-romeo_164_1988-1998\alfa-romeo-164-1988 - 1998-(33).jpg
+D:\Machine Learning\train\alfa-romeo_164_1988-1998\alfa-romeo-164-1988 - 1998-(35).jpg
+D:\Machine Learning\train\alfa-romeo_164_1988-1998\alfa-romeo_164_1988-1998_29.jpg
+D:\Machine Learning\train\alfa-romeo_2000_1971-1977\alfa-romeo_2000_1971-1977_1.jpg
+D:\Machine Learning\train\alfa-romeo_2600_1962-1965\alfa-romeo-2600-1962 - 1965-(10).jpg
+D:\Machine Learning\train\alfa-romeo_4c-spider_2015-Present\alfa-romeo-4c-spider-2015 - Present-(24).jpg
+D:\Machine Learning\train\alfa-romeo_4c-spider_2015-Present\alfa-romeo-4c-spider-2015 - Present-(28).jpg
+D:\Machine Learning\train\alfa-romeo_6_1979-1983\alfa-romeo-6-1979 - 1983-(15).jpg
+D:\Machine Learning\train\alfa-romeo_75_1985-1992\alfa-romeo-75-1985 - 1992-(11).jpg
+D:\Machine Learning\train\alfa-romeo_75_1985-1992\alfa-romeo-75-1985 - 1992-(12).jpg
+D:\Machine Learning\train\alfa-romeo_75_1985-1992\alfa-romeo-75-1985 - 1992-(13).jpg
+D:\Machine Learning\train\alfa-romeo_75_1985-1992\alfa-romeo-75-1985 - 1992-(22).jpg
+D:\Machine Learning\train\alfa-romeo_alfetta_1972-1979\alfa-romeo-alfetta-1972 - 1979-(16).jpg
+D:\Machine Learning\train\alfa-romeo_alfetta_1972-1979\alfa-romeo-alfetta-1972 - 1979-(17).jpg
+D:\Machine Learning\train\alfa-romeo_alfetta_1974-1980\alfa-romeo_alfetta_1974-1980_7.jpg
+D:\Machine Learning\train\alfa-romeo_alfetta_1976-1982\alfa-romeo-alfetta-1976 - 1982-(13).jpg
+D:\Machine Learning\train\alfa-romeo_alfetta_1976-1982\alfa-romeo-alfetta-1976 - 1982-(14).jpg
+D:\Machine Learning\train\alfa-romeo_alfetta_1979-1984\alfa-romeo-alfetta-1979 - 1984-(0).jpg
+D:\Machine Learning\train\alfa-romeo_alfetta_1979-1984\alfa-romeo-alfetta-1979 - 1984-(13).jpg
+D:\Machine Learning\train\alfa-romeo_arna_1983-1987\alfa-romeo-arna-1983 - 1987-(14).jpg
+D:\Machine Learning\train\alfa-romeo_arna_1983-1987\alfa-romeo-arna-1983 - 1987-(16).jpg
+D:\Machine Learning\train\alfa-romeo_arna_1983-1987\alfa-romeo-arna-1983 - 1987-(19).jpg
+D:\Machine Learning\train\alfa-romeo_arna_1983-1987\alfa-romeo-arna-1983 - 1987-(21).jpg
+D:\Machine Learning\train\alfa-romeo_arna_1983-1987\alfa-romeo-arna-1983 - 1987-(22).jpg
+D:\Machine Learning\train\alfa-romeo_arna_1983-1987\alfa-romeo-arna-1983 - 1987-(24).jpg
+D:\Machine Learning\train\alfa-romeo_brera_2005-2010\alfa-romeo-brera-2005 - 2010-(10).jpg
+D:\Machine Learning\train\alfa-romeo_brera_2005-2010\alfa-romeo-brera-2005 - 2010-(20).jpg
+D:\Machine Learning\train\alfa-romeo_brera_2005-2010\alfa-romeo-brera-2005 - 2010-(29).jpg
+D:\Machine Learning\train\alfa-romeo_brera_2005-2010\alfa-romeo-brera-2005 - 2010-(3).jpg
+D:\Machine Learning\train\alfa-romeo_crosswagon-q4_2004-2007\alfa-romeo-crosswagon-q4-2004 - 2007-(10).jpg
+D:\Machine Learning\train\alfa-romeo_crosswagon-q4_2004-2007\alfa-romeo-crosswagon-q4-2004 - 2007-(13).jpg
+D:\Machine Learning\train\alfa-romeo_giulietta-quadrifoglio-verde_2011-2016\alfa-romeo-giulietta-quadrifoglio-verde-2011 - 2016-(23).jpg
+D:\Machine Learning\train\alfa-romeo_giulietta-quadrifoglio-verde_2011-2016\alfa-romeo-giulietta-quadrifoglio-verde-2011 - 2016-(25).jpg
+D:\Machine Learning\train\alfa-romeo_giulietta-quadrifoglio-verde_2011-2016\alfa-romeo-giulietta-quadrifoglio-verde-2011 - 2016-(28).jpg
+D:\Machine Learning\train\alfa-romeo_giulietta-quadrifoglio-verde_2011-2016\alfa-romeo-giulietta-quadrifoglio-verde-2011 - 2016-(31).jpg
+D:\Machine Learning\train\alfa-romeo_giulietta-quadrifoglio-verde_2011-2016\alfa-romeo-giulietta-quadrifoglio-verde-2011 - 2016-(4).jpg
+D:\Machine Learning\train\alfa-romeo_stelvio-quadrifoglio_2017-Present\alfa-romeo-stelvio-quadrifoglio-2017 - Present-(11).jpg
+D:\Machine Learning\train\alfa-romeo_stelvio-quadrifoglio_2017-Present\alfa-romeo-stelvio-quadrifoglio-2017 - Present-(39).jpg
+D:\Machine Learning\train\alfa-romeo_stelvio_2017-Present\alfa-romeo-stelvio-2017 - Present-(14).jpg
+D:\Machine Learning\train\alpine_a110_2017-Present\alpine-a110-2017 - Present-(12).jpg
+D:\Machine Learning\train\alpine_a110_2017-Present\alpine-a110-2017 - Present-(24).jpg
+D:\Machine Learning\train\aston-martin_db9_2010-2012\aston-martin-db9-2010 - 2012-(19).jpg
+D:\Machine Learning\train\audi_a3-sportback_2004-2008\audi-a3-sportback-2004 - 2008-(30).jpg
+D:\Machine Learning\train\audi_a4-allroad_2012-2016\audi_a4-allroad_2012-2016_35.jpg
+D:\Machine Learning\train\audi_a4-cabriolet_2005-2008\audi_a4-cabriolet_2005-2008_38.jpg
+D:\Machine Learning\train\audi_a4_1994-2001\audi-a4-1994 - 2001-(39).jpg
+D:\Machine Learning\train\audi_a4_1994-2001\audi-a4-1994 - 2001-(44).jpg
+D:\Machine Learning\train\audi_a4_2004-2007\audi-a4-2004 - 2007-(26).jpg
+D:\Machine Learning\train\audi_a4_2004-2007\audi-a4-2004 - 2007-(47).jpg
+D:\Machine Learning\train\audi_a4_2007-2012\audi_a4_2007-2012_54.jpg
+D:\Machine Learning\train\audi_a4_2007-2012\audi_a4_2007-2012_63.jpg
+D:\Machine Learning\train\audi_a4_2016-2018\audi-a4-2016 - 2018-(112).jpg
+D:\Machine Learning\train\audi_a5_2007-2011\audi-a5-2007 - 2011-(112).jpg
+D:\Machine Learning\train\audi_a6-avant_2001-2004\audi_a6-avant_2001-2004_19.jpg
+D:\Machine Learning\train\audi_a6-avant_2018-Present\audi-a6-avant-2018 - Present-(114).jpg
+D:\Machine Learning\train\audi_e-tron_2019-Present\audi-e-tron-2019 - Present-(1).jpg
+D:\Machine Learning\train\audi_e-tron_2019-Present\audi-e-tron-2019 - Present-(23).jpg
+D:\Machine Learning\train\audi_e-tron_2019-Present\audi-e-tron-2019 - Present-(24).jpg
+D:\Machine Learning\train\audi_e-tron_2019-Present\audi-e-tron-2019 - Present-(28).jpg
+D:\Machine Learning\train\audi_q2_2016-Present\audi-q2-2016 - Present-(10).jpg
+D:\Machine Learning\train\audi_q2_2016-Present\audi-q2-2016 - Present-(11).jpg
+D:\Machine Learning\train\audi_q2_2016-Present\audi-q2-2016 - Present-(12).jpg
+D:\Machine Learning\train\audi_q2_2016-Present\audi-q2-2016 - Present-(15).jpg
+D:\Machine Learning\train\audi_q2_2016-Present\audi-q2-2016 - Present-(18).jpg
+D:\Machine Learning\train\audi_q2_2016-Present\audi-q2-2016 - Present-(22).jpg
+D:\Machine Learning\train\audi_q2_2016-Present\audi-q2-2016 - Present-(46).jpg
+D:\Machine Learning\train\audi_q7_2009-2015\audi_q7_2009-2015_36.jpg
+D:\Machine Learning\train\audi_r8-gt-spyder_2011-2013\audi-r8-gt-spyder-2011 - 2013-(4).jpg
+D:\Machine Learning\train\audi_r8-gt-spyder_2011-2013\audi_r8-gt-spyder_2011-2013_26.jpg
+D:\Machine Learning\train\audi_r8_2007-2012\audi-r8-2007 - 2012-(0).jpg
+D:\Machine Learning\train\audi_r8_2007-2012\audi-r8-2007 - 2012-(10).jpg
+D:\Machine Learning\train\audi_r8_2007-2012\audi-r8-2007 - 2012-(11).jpg
+D:\Machine Learning\train\audi_r8_2007-2012\audi-r8-2007 - 2012-(12).jpg
+D:\Machine Learning\train\audi_r8_2007-2012\audi-r8-2007 - 2012-(13).jpg
+D:\Machine Learning\train\audi_r8_2007-2012\audi-r8-2007 - 2012-(14).jpg
+D:\Machine Learning\train\audi_r8_2007-2012\audi-r8-2007 - 2012-(15).jpg
+D:\Machine Learning\train\audi_r8_2007-2012\audi-r8-2007 - 2012-(16).jpg
+D:\Machine Learning\train\audi_r8_2007-2012\audi-r8-2007 - 2012-(19).jpg
+D:\Machine Learning\train\audi_r8_2007-2012\audi-r8-2007 - 2012-(2).jpg
+D:\Machine Learning\train\audi_r8_2007-2012\audi-r8-2007 - 2012-(20).jpg
+D:\Machine Learning\train\audi_r8_2007-2012\audi-r8-2007 - 2012-(21).jpg
+D:\Machine Learning\train\audi_r8_2007-2012\audi-r8-2007 - 2012-(22).jpg
+D:\Machine Learning\train\audi_r8_2007-2012\audi-r8-2007 - 2012-(23).jpg
+D:\Machine Learning\train\audi_r8_2007-2012\audi-r8-2007 - 2012-(24).jpg
+D:\Machine Learning\train\audi_r8_2007-2012\audi-r8-2007 - 2012-(25).jpg
+D:\Machine Learning\train\audi_r8_2007-2012\audi-r8-2007 - 2012-(26).jpg
+D:\Machine Learning\train\audi_r8_2007-2012\audi-r8-2007 - 2012-(27).jpg
+D:\Machine Learning\train\audi_r8_2007-2012\audi-r8-2007 - 2012-(29).jpg
+D:\Machine Learning\train\audi_r8_2007-2012\audi-r8-2007 - 2012-(3).jpg
+D:\Machine Learning\train\audi_r8_2007-2012\audi-r8-2007 - 2012-(30).jpg
+D:\Machine Learning\train\audi_r8_2007-2012\audi-r8-2007 - 2012-(31).jpg
+D:\Machine Learning\train\audi_r8_2008-2012\audi-r8-2008 - 2012-(14).jpg
+D:\Machine Learning\train\audi_r8_2008-2012\audi-r8-2008 - 2012-(15).jpg
+D:\Machine Learning\train\audi_r8_2008-2012\audi-r8-2008 - 2012-(16).jpg
+D:\Machine Learning\train\audi_r8_2008-2012\audi-r8-2008 - 2012-(2).jpg
+D:\Machine Learning\train\audi_r8_2008-2012\audi-r8-2008 - 2012-(21).jpg
+D:\Machine Learning\train\audi_r8_2008-2012\audi-r8-2008 - 2012-(22).jpg
+D:\Machine Learning\train\audi_r8_2008-2012\audi-r8-2008 - 2012-(23).jpg
+D:\Machine Learning\train\audi_r8_2008-2012\audi-r8-2008 - 2012-(24).jpg
+D:\Machine Learning\train\audi_r8_2008-2012\audi-r8-2008 - 2012-(25).jpg
+D:\Machine Learning\train\audi_r8_2008-2012\audi-r8-2008 - 2012-(26).jpg
+D:\Machine Learning\train\audi_r8_2008-2012\audi-r8-2008 - 2012-(28).jpg
+D:\Machine Learning\train\audi_r8_2008-2012\audi-r8-2008 - 2012-(29).jpg
+D:\Machine Learning\train\audi_r8_2008-2012\audi-r8-2008 - 2012-(32).jpg
+D:\Machine Learning\train\audi_r8_2008-2012\audi-r8-2008 - 2012-(33).jpg
+D:\Machine Learning\train\audi_r8_2008-2012\audi-r8-2008 - 2012-(42).jpg
+D:\Machine Learning\train\audi_r8_2008-2012\audi_r8_2008-2012_3.jpg
+D:\Machine Learning\train\audi_r8_2008-2012\audi_r8_2008-2012_4.jpg
+D:\Machine Learning\train\audi_r8_2008-2012\audi_r8_2008-2012_5.jpg
+D:\Machine Learning\train\audi_r8_2008-2012\audi_r8_2008-2012_6.jpg
+D:\Machine Learning\train\audi_r8_2012-2015\audi-r8-2012 - 2015-(13).jpg
+D:\Machine Learning\train\audi_r8_2012-2015\audi-r8-2012 - 2015-(14).jpg
+D:\Machine Learning\train\audi_r8_2012-2015\audi-r8-2012 - 2015-(16).jpg
+D:\Machine Learning\train\audi_r8_2012-2015\audi-r8-2012 - 2015-(17).jpg
+D:\Machine Learning\train\audi_r8_2012-2015\audi-r8-2012 - 2015-(19).jpg
+D:\Machine Learning\train\audi_r8_2012-2015\audi-r8-2012 - 2015-(2).jpg
+D:\Machine Learning\train\audi_r8_2012-2015\audi-r8-2012 - 2015-(21).jpg
+D:\Machine Learning\train\audi_r8_2012-2015\audi-r8-2012 - 2015-(22).jpg
+D:\Machine Learning\train\audi_r8_2012-2015\audi-r8-2012 - 2015-(24).jpg
+D:\Machine Learning\train\audi_r8_2012-2015\audi-r8-2012 - 2015-(26).jpg
+D:\Machine Learning\train\audi_r8_2012-2015\audi-r8-2012 - 2015-(27).jpg
+D:\Machine Learning\train\audi_r8_2012-2015\audi-r8-2012 - 2015-(28).jpg
+D:\Machine Learning\train\audi_r8_2012-2015\audi_r8_2012-2015_4.jpg
+D:\Machine Learning\train\audi_r8_2012-2015\audi_r8_2012-2015_5.jpg
+D:\Machine Learning\train\audi_r8_2015-2018\audi-r8-2015 - 2018-(17).jpg
+D:\Machine Learning\train\audi_r8_2015-2018\audi-r8-2015 - 2018-(18).jpg
+D:\Machine Learning\train\audi_r8_2015-2018\audi-r8-2015 - 2018-(19).jpg
+D:\Machine Learning\train\audi_r8_2015-2018\audi-r8-2015 - 2018-(20).jpg
+D:\Machine Learning\train\audi_r8_2015-2018\audi-r8-2015 - 2018-(21).jpg
+D:\Machine Learning\train\audi_r8_2015-2018\audi-r8-2015 - 2018-(22).jpg
+D:\Machine Learning\train\audi_r8_2015-2018\audi-r8-2015 - 2018-(23).jpg
+D:\Machine Learning\train\audi_r8_2015-2018\audi-r8-2015 - 2018-(24).jpg
+D:\Machine Learning\train\audi_r8_2015-2018\audi-r8-2015 - 2018-(25).jpg
+D:\Machine Learning\train\audi_r8_2015-2018\audi-r8-2015 - 2018-(26).jpg
+D:\Machine Learning\train\audi_r8_2015-2018\audi-r8-2015 - 2018-(27).jpg
+D:\Machine Learning\train\audi_r8_2015-2018\audi-r8-2015 - 2018-(28).jpg
+D:\Machine Learning\train\audi_r8_2015-2018\audi-r8-2015 - 2018-(29).jpg
+D:\Machine Learning\train\audi_r8_2015-2018\audi-r8-2015 - 2018-(30).jpg
+D:\Machine Learning\train\audi_r8_2015-2018\audi-r8-2015 - 2018-(32).jpg
+D:\Machine Learning\train\audi_r8_2015-2018\audi-r8-2015 - 2018-(34).jpg
+D:\Machine Learning\train\audi_r8_2015-2018\audi-r8-2015 - 2018-(37).jpg
+D:\Machine Learning\train\audi_r8_2015-2018\audi-r8-2015 - 2018-(39).jpg
+D:\Machine Learning\train\audi_r8_2015-2018\audi-r8-2015 - 2018-(41).jpg
+D:\Machine Learning\train\audi_r8_2015-2018\audi-r8-2015 - 2018-(42).jpg
+D:\Machine Learning\train\audi_r8_2015-2018\audi-r8-2015 - 2018-(44).jpg
+D:\Machine Learning\train\audi_r8_2015-2018\audi-r8-2015 - 2018-(45).jpg
+D:\Machine Learning\train\audi_r8_2015-2018\audi-r8-2015 - 2018-(46).jpg
+D:\Machine Learning\train\audi_r8_2015-2018\audi-r8-2015 - 2018-(47).jpg
+D:\Machine Learning\train\audi_r8_2015-2018\audi-r8-2015 - 2018-(56).jpg
+D:\Machine Learning\train\audi_r8_2015-2018\audi-r8-2015 - 2018-(57).jpg
+D:\Machine Learning\train\audi_r8_2015-2018\audi-r8-2015 - 2018-(58).jpg
+D:\Machine Learning\train\audi_r8_2015-2018\audi-r8-2015 - 2018-(59).jpg
+D:\Machine Learning\train\audi_r8_2015-2018\audi-r8-2015 - 2018-(64).jpg
+D:\Machine Learning\train\audi_r8_2015-2018\audi-r8-2015 - 2018-(66).jpg
+D:\Machine Learning\train\audi_r8_2015-2018\audi-r8-2015 - 2018-(67).jpg
+D:\Machine Learning\train\audi_r8_2015-2018\audi-r8-2015 - 2018-(69).jpg
+D:\Machine Learning\train\audi_r8_2015-2018\audi-r8-2015 - 2018-(70).jpg
+D:\Machine Learning\train\audi_r8_2015-2018\audi-r8-2015 - 2018-(73).jpg
+D:\Machine Learning\train\audi_r8_2015-2018\audi-r8-2015 - 2018-(74).jpg
+D:\Machine Learning\train\audi_r8_2015-2018\audi-r8-2015 - 2018-(75).jpg
+D:\Machine Learning\train\audi_r8_2015-2018\audi_r8_2015-2018_4.jpg
+D:\Machine Learning\train\audi_r8_2015-2018\audi_r8_2015-2018_5.jpg
+D:\Machine Learning\train\audi_r8_2015-2018\audi_r8_2015-2018_6.jpg
+D:\Machine Learning\train\audi_r8_2017-Present\audi-r8-2017 - Present-(10).jpg
+D:\Machine Learning\train\audi_r8_2017-Present\audi-r8-2017 - Present-(12).jpg
+D:\Machine Learning\train\audi_r8_2017-Present\audi-r8-2017 - Present-(13).jpg
+D:\Machine Learning\train\audi_r8_2017-Present\audi-r8-2017 - Present-(14).jpg
+D:\Machine Learning\train\audi_r8_2017-Present\audi-r8-2017 - Present-(15).jpg
+D:\Machine Learning\train\audi_r8_2017-Present\audi-r8-2017 - Present-(16).jpg
+D:\Machine Learning\train\audi_r8_2017-Present\audi-r8-2017 - Present-(17).jpg
+D:\Machine Learning\train\audi_r8_2017-Present\audi-r8-2017 - Present-(18).jpg
+D:\Machine Learning\train\audi_r8_2017-Present\audi-r8-2017 - Present-(19).jpg
+D:\Machine Learning\train\audi_r8_2017-Present\audi-r8-2017 - Present-(2).jpg
+D:\Machine Learning\train\audi_r8_2017-Present\audi-r8-2017 - Present-(20).jpg
+D:\Machine Learning\train\audi_r8_2017-Present\audi-r8-2017 - Present-(21).jpg
+D:\Machine Learning\train\audi_r8_2017-Present\audi-r8-2017 - Present-(22).jpg
+D:\Machine Learning\train\audi_r8_2017-Present\audi-r8-2017 - Present-(23).jpg
+D:\Machine Learning\train\audi_r8_2017-Present\audi-r8-2017 - Present-(24).jpg
+D:\Machine Learning\train\audi_r8_2018-Present\audi-r8-2018 - Present-(14).jpg
+D:\Machine Learning\train\audi_r8_2018-Present\audi-r8-2018 - Present-(15).jpg
+D:\Machine Learning\train\audi_r8_2018-Present\audi-r8-2018 - Present-(16).jpg
+D:\Machine Learning\train\audi_r8_2018-Present\audi-r8-2018 - Present-(19).jpg
+D:\Machine Learning\train\audi_r8_2018-Present\audi-r8-2018 - Present-(20).jpg
+D:\Machine Learning\train\audi_r8_2018-Present\audi-r8-2018 - Present-(21).jpg
+D:\Machine Learning\train\audi_r8_2018-Present\audi-r8-2018 - Present-(22).jpg
+D:\Machine Learning\train\audi_r8_2018-Present\audi-r8-2018 - Present-(23).jpg
+D:\Machine Learning\train\audi_r8_2018-Present\audi-r8-2018 - Present-(24).jpg
+D:\Machine Learning\train\audi_r8_2018-Present\audi-r8-2018 - Present-(25).jpg
+D:\Machine Learning\train\audi_r8_2018-Present\audi-r8-2018 - Present-(26).jpg
+D:\Machine Learning\train\audi_r8_2018-Present\audi-r8-2018 - Present-(27).jpg
+D:\Machine Learning\train\audi_r8_2018-Present\audi-r8-2018 - Present-(28).jpg
+D:\Machine Learning\train\audi_r8_2018-Present\audi-r8-2018 - Present-(29).jpg
+D:\Machine Learning\train\audi_r8_2018-Present\audi-r8-2018 - Present-(3).jpg
+D:\Machine Learning\train\audi_r8_2018-Present\audi-r8-2018 - Present-(30).jpg
+D:\Machine Learning\train\audi_r8_2018-Present\audi-r8-2018 - Present-(31).jpg
+D:\Machine Learning\train\audi_r8_2018-Present\audi-r8-2018 - Present-(38).jpg
+D:\Machine Learning\train\audi_r8_2018-Present\audi_r8_2018-Present_4.jpg
+D:\Machine Learning\train\audi_r8_2018-Present\audi_r8_2018-Present_5.jpg
+D:\Machine Learning\train\audi_r8_2018-Present\audi_r8_2018-Present_6.jpg
+D:\Machine Learning\train\audi_r8_2018-Present\audi_r8_2018-Present_7.jpg
+D:\Machine Learning\train\audi_r8_2018-Present\audi_r8_2018-Present_8.jpg
+D:\Machine Learning\train\audi_rs7-sportback_2013-2019\audi-rs7-sportback-2013 - 2019-(0).jpg
+D:\Machine Learning\train\audi_rs7-sportback_2013-2019\audi-rs7-sportback-2013 - 2019-(12).jpg
+D:\Machine Learning\train\audi_rs7-sportback_2013-2019\audi-rs7-sportback-2013 - 2019-(13).jpg
+D:\Machine Learning\train\audi_rs7-sportback_2013-2019\audi-rs7-sportback-2013 - 2019-(14).jpg
+D:\Machine Learning\train\audi_rs7-sportback_2013-2019\audi-rs7-sportback-2013 - 2019-(15).jpg
+D:\Machine Learning\train\audi_rs7-sportback_2013-2019\audi-rs7-sportback-2013 - 2019-(16).jpg
+D:\Machine Learning\train\audi_rs7-sportback_2013-2019\audi-rs7-sportback-2013 - 2019-(20).jpg
+D:\Machine Learning\train\audi_rs7-sportback_2013-2019\audi-rs7-sportback-2013 - 2019-(23).jpg
+D:\Machine Learning\train\audi_rs7-sportback_2013-2019\audi-rs7-sportback-2013 - 2019-(27).jpg
+D:\Machine Learning\train\audi_rs7-sportback_2013-2019\audi-rs7-sportback-2013 - 2019-(28).jpg
+D:\Machine Learning\train\audi_rs7-sportback_2013-2019\audi-rs7-sportback-2013 - 2019-(3).jpg
+D:\Machine Learning\train\audi_rs7-sportback_2013-2019\audi-rs7-sportback-2013 - 2019-(31).jpg
+D:\Machine Learning\train\audi_rs7-sportback_2013-2019\audi-rs7-sportback-2013 - 2019-(39).jpg
+D:\Machine Learning\train\audi_rs7-sportback_2013-2019\audi-rs7-sportback-2013 - 2019-(40).jpg
+D:\Machine Learning\train\audi_rs7-sportback_2013-2019\audi-rs7-sportback-2013 - 2019-(42).jpg
+D:\Machine Learning\train\audi_rs7-sportback_2013-2019\audi-rs7-sportback-2013 - 2019-(45).jpg
+D:\Machine Learning\train\audi_rs7-sportback_2013-2019\audi-rs7-sportback-2013 - 2019-(46).jpg
+D:\Machine Learning\train\audi_rs7-sportback_2013-2019\audi-rs7-sportback-2013 - 2019-(51).jpg
+D:\Machine Learning\train\audi_rs7-sportback_2013-2019\audi-rs7-sportback-2013 - 2019-(52).jpg
+D:\Machine Learning\train\audi_s7-1_2014-2017\audi-s7-1-2014 - 2017-(23).jpg
+D:\Machine Learning\train\bmw_1-series-m-coupe_2010-2012\bmw-1-series-m-coupe-2010 - 2012-(16).jpg
+D:\Machine Learning\train\bmw_1-series_2004-2007\bmw-1-series-2004 - 2007-(19).jpg
+D:\Machine Learning\train\bmw_1-series_2007-2011\bmw-1-series-2007 - 2011-(13).jpg
+D:\Machine Learning\train\bmw_1-series_2011-2015\bmw-1-series-2011 - 2015-(114).jpg
+D:\Machine Learning\train\bmw_1-series_2011-2015\bmw-1-series-2011 - 2015-(157).jpg
+D:\Machine Learning\train\bmw_1-series_2011-2015\bmw-1-series-2011 - 2015-(22).jpg
+D:\Machine Learning\train\bmw_1-series_2015-2017\bmw_1-series_2015-2017_70.jpg
+D:\Machine Learning\train\bmw_15001600_1966-1975\bmw-15001600-1966 - 1975-(1).jpg
+D:\Machine Learning\train\bmw_15001600_1966-1975\bmw-15001600-1966 - 1975-(4).jpg
+D:\Machine Learning\train\bmw_2-series_2013-2017\bmw-2-series-2013 - 2017-(35).jpg
+D:\Machine Learning\train\bmw_2002_1968-1975\bmw-2002-1968 - 1975-(0).jpg
+D:\Machine Learning\train\bmw_2002_1968-1975\bmw-2002-1968 - 1975-(10).jpg
+D:\Machine Learning\train\bmw_2002_1968-1975\bmw-2002-1968 - 1975-(11).jpg
+D:\Machine Learning\train\bmw_2002_1968-1975\bmw-2002-1968 - 1975-(12).jpg
+D:\Machine Learning\train\bmw_2002_1968-1975\bmw-2002-1968 - 1975-(13).jpg
+D:\Machine Learning\train\bmw_2002_1968-1975\bmw-2002-1968 - 1975-(14).jpg
+D:\Machine Learning\train\bmw_2002_1968-1975\bmw-2002-1968 - 1975-(15).jpg
+D:\Machine Learning\train\bmw_2002_1968-1975\bmw-2002-1968 - 1975-(16).jpg
+D:\Machine Learning\train\bmw_2002_1968-1975\bmw-2002-1968 - 1975-(17).jpg
+D:\Machine Learning\train\bmw_2002_1968-1975\bmw-2002-1968 - 1975-(18).jpg
+D:\Machine Learning\train\bmw_2002_1973-1974\bmw-2002-1973 - 1974-(13).jpg
+D:\Machine Learning\train\bmw_2002_1973-1974\bmw-2002-1973 - 1974-(15).jpg
+D:\Machine Learning\train\bmw_2002_1973-1974\bmw-2002-1973 - 1974-(16).jpg
+D:\Machine Learning\train\bmw_2002_1973-1974\bmw-2002-1973 - 1974-(17).jpg
+D:\Machine Learning\train\bmw_2002_1973-1974\bmw-2002-1973 - 1974-(18).jpg
+D:\Machine Learning\train\bmw_2002_1973-1974\bmw-2002-1973 - 1974-(19).jpg
+D:\Machine Learning\train\bmw_2002_1973-1974\bmw-2002-1973 - 1974-(2).jpg
+D:\Machine Learning\train\bmw_2002_1973-1974\bmw-2002-1973 - 1974-(3).jpg
+D:\Machine Learning\train\bmw_2002_1973-1974\bmw-2002-1973 - 1974-(4).jpg
+D:\Machine Learning\train\bmw_2002_1973-1974\bmw_2002_1973-1974_2.jpg
+D:\Machine Learning\train\bmw_2002_1973-1974\bmw_2002_1973-1974_3.jpg
+D:\Machine Learning\train\bmw_2002_1973-1974\bmw_2002_1973-1974_4.jpg
+D:\Machine Learning\train\bmw_2002_1973-1974\bmw_2002_1973-1974_5.jpg
+D:\Machine Learning\train\bmw_3-series-cabriolet_2000-2003\bmw-3-series-cabriolet-2000 - 2003-(21).jpg
+D:\Machine Learning\train\bmw_3-series-cabriolet_2007-2010\bmw-3-series-cabriolet-2007 - 2010-(3).jpg
+D:\Machine Learning\train\bmw_3-series-cabriolet_2010-2013\bmw_3-series-cabriolet_2010-2013_37.jpg
+D:\Machine Learning\train\bmw_3-series-sedan_1982-1992\bmw-3-series-sedan-1982 - 1992-(21).jpg
+D:\Machine Learning\train\bmw_3-series-sedan_1982-1992\bmw-3-series-sedan-1982 - 1992-(22).jpg
+D:\Machine Learning\train\bmw_3-series-sedan_1982-1992\bmw-3-series-sedan-1982 - 1992-(23).jpg
+D:\Machine Learning\train\bmw_3-series-sedan_1982-1992\bmw-3-series-sedan-1982 - 1992-(27).jpg
+D:\Machine Learning\train\bmw_3-series-sedan_1982-1992\bmw-3-series-sedan-1982 - 1992-(33).jpg
+D:\Machine Learning\train\bmw_3-series-sedan_1982-1992\bmw_3-series-sedan_1982-1992_11.jpg
+D:\Machine Learning\train\bmw_3-series-sedan_1982-1992\bmw_3-series-sedan_1982-1992_12.jpg
+D:\Machine Learning\train\bmw_3-series-sedan_1982-1992\bmw_3-series-sedan_1982-1992_13.jpg
+D:\Machine Learning\train\bmw_3-series-sedan_1982-1992\bmw_3-series-sedan_1982-1992_14.jpg
+D:\Machine Learning\train\bmw_3-series-sedan_1982-1992\bmw_3-series-sedan_1982-1992_15.jpg
+D:\Machine Learning\train\bmw_3-series-sedan_1982-1992\bmw_3-series-sedan_1982-1992_16.jpg
+D:\Machine Learning\train\bmw_3-series-sedan_1991-1998\bmw-3-series-sedan-1991 - 1998-(10).jpg
+D:\Machine Learning\train\bmw_3-series-sedan_1991-1998\bmw-3-series-sedan-1991 - 1998-(12).jpg
+D:\Machine Learning\train\bmw_3-series-sedan_1991-1998\bmw-3-series-sedan-1991 - 1998-(15).jpg
+D:\Machine Learning\train\bmw_3-series-sedan_1991-1998\bmw-3-series-sedan-1991 - 1998-(16).jpg
+D:\Machine Learning\train\bmw_3-series-sedan_1991-1998\bmw-3-series-sedan-1991 - 1998-(2).jpg
+D:\Machine Learning\train\bmw_3-series-sedan_1991-1998\bmw-3-series-sedan-1991 - 1998-(21).jpg
+D:\Machine Learning\train\bmw_3-series-sedan_1991-1998\bmw-3-series-sedan-1991 - 1998-(26).jpg
+D:\Machine Learning\train\bmw_3-series-sedan_1991-1998\bmw-3-series-sedan-1991 - 1998-(27).jpg
+D:\Machine Learning\train\bmw_3-series-sedan_1998-2002\bmw-3-series-sedan-1998 - 2002-(2).jpg
+D:\Machine Learning\train\bmw_3-series-sedan_2002-2005\bmw-3-series-sedan-2002 - 2005-(10).jpg
+D:\Machine Learning\train\bmw_3-series-sedan_2002-2005\bmw-3-series-sedan-2002 - 2005-(12).jpg
+D:\Machine Learning\train\bmw_3-series-sedan_2002-2005\bmw-3-series-sedan-2002 - 2005-(23).jpg
+D:\Machine Learning\train\bmw_3-series-sedan_2002-2005\bmw-3-series-sedan-2002 - 2005-(25).jpg
+D:\Machine Learning\train\bmw_3-series-sedan_2002-2005\bmw-3-series-sedan-2002 - 2005-(35).jpg
+D:\Machine Learning\train\bmw_3-series-sedan_2005-2008\bmw-3-series-sedan-2005 - 2008-(106).jpg
+D:\Machine Learning\train\bmw_3-series-sedan_2005-2008\bmw-3-series-sedan-2005 - 2008-(11).jpg
+D:\Machine Learning\train\bmw_3-series-sedan_2005-2008\bmw-3-series-sedan-2005 - 2008-(13).jpg
+D:\Machine Learning\train\bmw_3-series-sedan_2005-2008\bmw-3-series-sedan-2005 - 2008-(16).jpg
+D:\Machine Learning\train\bmw_3-series-sedan_2005-2008\bmw-3-series-sedan-2005 - 2008-(21).jpg
+D:\Machine Learning\train\bmw_3-series-sedan_2005-2008\bmw-3-series-sedan-2005 - 2008-(23).jpg
+D:\Machine Learning\train\bmw_3-series-sedan_2005-2008\bmw-3-series-sedan-2005 - 2008-(29).jpg
+D:\Machine Learning\train\bmw_3-series-sedan_2005-2008\bmw-3-series-sedan-2005 - 2008-(30).jpg
+D:\Machine Learning\train\bmw_3-series-sedan_2005-2008\bmw-3-series-sedan-2005 - 2008-(31).jpg
+D:\Machine Learning\train\bmw_3-series-sedan_2005-2008\bmw-3-series-sedan-2005 - 2008-(33).jpg
+D:\Machine Learning\train\bmw_3-series-sedan_2005-2008\bmw-3-series-sedan-2005 - 2008-(34).jpg
+D:\Machine Learning\train\bmw_3-series-sedan_2005-2008\bmw-3-series-sedan-2005 - 2008-(41).jpg
+D:\Machine Learning\train\bmw_3-series-sedan_2005-2008\bmw-3-series-sedan-2005 - 2008-(46).jpg
+D:\Machine Learning\train\bmw_3-series-sedan_2005-2008\bmw_3-series-sedan_2005-2008_23.jpg
+D:\Machine Learning\train\bmw_3-series-sedan_2008-2011\bmw-3-series-sedan-2008 - 2011-(112).jpg
+D:\Machine Learning\train\bmw_3-series-sedan_2016-2018\bmw-3-series-sedan-2016 - 2018-(107).jpg
+D:\Machine Learning\train\bmw_3-series-sedan_2018-Present\bmw-3-series-sedan-2018 - Present-(100).jpg
+D:\Machine Learning\train\bmw_3-series-sedan_2018-Present\bmw-3-series-sedan-2018 - Present-(102).jpg
+D:\Machine Learning\train\bmw_3-series-sedan_2018-Present\bmw-3-series-sedan-2018 - Present-(104).jpg
+D:\Machine Learning\train\bmw_3-series-sedan_2018-Present\bmw-3-series-sedan-2018 - Present-(116).jpg
+D:\Machine Learning\train\bmw_3-series-sedan_2018-Present\bmw-3-series-sedan-2018 - Present-(120).jpg
+D:\Machine Learning\train\bmw_3-series-sedan_2018-Present\bmw-3-series-sedan-2018 - Present-(145).jpg
+D:\Machine Learning\train\bmw_3-series-sedan_2018-Present\bmw-3-series-sedan-2018 - Present-(147).jpg
+D:\Machine Learning\train\bmw_3-series-sedan_2018-Present\bmw-3-series-sedan-2018 - Present-(152).jpg
+D:\Machine Learning\train\bmw_3-series-sedan_2018-Present\bmw-3-series-sedan-2018 - Present-(155).jpg
+D:\Machine Learning\train\bmw_3-series-sedan_2018-Present\bmw-3-series-sedan-2018 - Present-(157).jpg
+D:\Machine Learning\train\bmw_3-series-sedan_2018-Present\bmw-3-series-sedan-2018 - Present-(159).jpg
+D:\Machine Learning\train\bmw_3-series-sedan_2018-Present\bmw-3-series-sedan-2018 - Present-(168).jpg
+D:\Machine Learning\train\bmw_3-series-sedan_2018-Present\bmw-3-series-sedan-2018 - Present-(174).jpg
+D:\Machine Learning\train\bmw_3-series-sedan_2018-Present\bmw-3-series-sedan-2018 - Present-(175).jpg
+D:\Machine Learning\train\bmw_3-series-sedan_2018-Present\bmw-3-series-sedan-2018 - Present-(185).jpg
+D:\Machine Learning\train\bmw_3-series-touring_1988-1993\bmw-3-series-touring-1988 - 1993-(22).jpg
+D:\Machine Learning\train\bmw_328_1936-1939\bmw-328-1936 - 1939-(13).jpg
+D:\Machine Learning\train\bmw_4-series-convertible_2014-2018\bmw-4-series-convertible-2014 - 2018-(103).jpg
+D:\Machine Learning\train\bmw_4-series-convertible_2014-2018\bmw-4-series-convertible-2014 - 2018-(105).jpg
+D:\Machine Learning\train\bmw_4-series-gran-coupe_2014-2018\bmw-4-series-gran-coupe-2014 - 2018-(26).jpg
+D:\Machine Learning\train\bmw_4-series-gran-coupe_2014-2018\bmw-4-series-gran-coupe-2014 - 2018-(27).jpg
+D:\Machine Learning\train\bmw_4-series-gran-coupe_2014-2018\bmw-4-series-gran-coupe-2014 - 2018-(32).jpg
+D:\Machine Learning\train\bmw_4-series-gran-coupe_2014-2018\bmw-4-series-gran-coupe-2014 - 2018-(33).jpg
+D:\Machine Learning\train\bmw_4-series-gran-coupe_2014-2018\bmw-4-series-gran-coupe-2014 - 2018-(34).jpg
+D:\Machine Learning\train\bmw_4-series-gran-coupe_2014-2018\bmw-4-series-gran-coupe-2014 - 2018-(36).jpg
+D:\Machine Learning\train\bmw_4-series-gran-coupe_2014-2018\bmw-4-series-gran-coupe-2014 - 2018-(37).jpg
+D:\Machine Learning\train\bmw_4-series-gran-coupe_2014-2018\bmw-4-series-gran-coupe-2014 - 2018-(38).jpg
+D:\Machine Learning\train\bmw_4-series-gran-coupe_2014-2018\bmw-4-series-gran-coupe-2014 - 2018-(39).jpg
+D:\Machine Learning\train\bmw_4-series-gran-coupe_2014-2018\bmw-4-series-gran-coupe-2014 - 2018-(4).jpg
+D:\Machine Learning\train\bmw_4-series-gran-coupe_2014-2018\bmw-4-series-gran-coupe-2014 - 2018-(40).jpg
+D:\Machine Learning\train\bmw_4-series-gran-coupe_2014-2018\bmw-4-series-gran-coupe-2014 - 2018-(41).jpg
+D:\Machine Learning\train\bmw_4-series-gran-coupe_2014-2018\bmw-4-series-gran-coupe-2014 - 2018-(43).jpg
+D:\Machine Learning\train\bmw_4-series-gran-coupe_2014-2018\bmw-4-series-gran-coupe-2014 - 2018-(44).jpg
+D:\Machine Learning\train\bmw_4-series-gran-coupe_2014-2018\bmw-4-series-gran-coupe-2014 - 2018-(45).jpg
+D:\Machine Learning\train\bmw_4-series-gran-coupe_2014-2018\bmw-4-series-gran-coupe-2014 - 2018-(46).jpg
+D:\Machine Learning\train\bmw_4-series-gran-coupe_2014-2018\bmw-4-series-gran-coupe-2014 - 2018-(48).jpg
+D:\Machine Learning\train\bmw_4-series-gran-coupe_2014-2018\bmw-4-series-gran-coupe-2014 - 2018-(49).jpg
+D:\Machine Learning\train\bmw_4-series-gran-coupe_2014-2018\bmw-4-series-gran-coupe-2014 - 2018-(50).jpg
+D:\Machine Learning\train\bmw_4-series-gran-coupe_2014-2018\bmw-4-series-gran-coupe-2014 - 2018-(51).jpg
+D:\Machine Learning\train\bmw_4-series-gran-coupe_2014-2018\bmw-4-series-gran-coupe-2014 - 2018-(52).jpg
+D:\Machine Learning\train\bmw_4-series-gran-coupe_2014-2018\bmw-4-series-gran-coupe-2014 - 2018-(53).jpg
+D:\Machine Learning\train\bmw_4-series-gran-coupe_2014-2018\bmw-4-series-gran-coupe-2014 - 2018-(54).jpg
+D:\Machine Learning\train\bmw_4-series-gran-coupe_2014-2018\bmw_4-series-gran-coupe_2014-2018_10.jpg
+D:\Machine Learning\train\bmw_4-series-gran-coupe_2014-2018\bmw_4-series-gran-coupe_2014-2018_11.jpg
+D:\Machine Learning\train\bmw_4-series-gran-coupe_2014-2018\bmw_4-series-gran-coupe_2014-2018_12.jpg
+D:\Machine Learning\train\bmw_4-series-gran-coupe_2014-2018\bmw_4-series-gran-coupe_2014-2018_13.jpg
+D:\Machine Learning\train\bmw_4-series-gran-coupe_2014-2018\bmw_4-series-gran-coupe_2014-2018_14.jpg
+D:\Machine Learning\train\bmw_4-series-gran-coupe_2014-2018\bmw_4-series-gran-coupe_2014-2018_15.jpg
+D:\Machine Learning\train\bmw_4-series-gran-coupe_2014-2018\bmw_4-series-gran-coupe_2014-2018_16.jpg
+D:\Machine Learning\train\bmw_4-series-gran-coupe_2014-2018\bmw_4-series-gran-coupe_2014-2018_17.jpg
+D:\Machine Learning\train\bmw_4-series-gran-coupe_2014-2018\bmw_4-series-gran-coupe_2014-2018_2.jpg
+D:\Machine Learning\train\bmw_4-series-gran-coupe_2014-2018\bmw_4-series-gran-coupe_2014-2018_3.jpg
+D:\Machine Learning\train\bmw_4-series-gran-coupe_2014-2018\bmw_4-series-gran-coupe_2014-2018_4.jpg
+D:\Machine Learning\train\bmw_4-series-gran-coupe_2014-2018\bmw_4-series-gran-coupe_2014-2018_5.jpg
+D:\Machine Learning\train\bmw_4-series-gran-coupe_2014-2018\bmw_4-series-gran-coupe_2014-2018_6.jpg
+D:\Machine Learning\train\bmw_4-series-gran-coupe_2014-2018\bmw_4-series-gran-coupe_2014-2018_7.jpg
+D:\Machine Learning\train\bmw_4-series-gran-coupe_2014-2018\bmw_4-series-gran-coupe_2014-2018_8.jpg
+D:\Machine Learning\train\bmw_4-series-gran-coupe_2014-2018\bmw_4-series-gran-coupe_2014-2018_9.jpg
+D:\Machine Learning\train\bmw_4-series-gran-coupe_2018-Present\bmw-4-series-gran-coupe-2018 - Present-(0).jpg
+D:\Machine Learning\train\bmw_4-series-gran-coupe_2018-Present\bmw-4-series-gran-coupe-2018 - Present-(10).jpg
+D:\Machine Learning\train\bmw_4-series-gran-coupe_2018-Present\bmw-4-series-gran-coupe-2018 - Present-(11).jpg
+D:\Machine Learning\train\bmw_4-series-gran-coupe_2018-Present\bmw-4-series-gran-coupe-2018 - Present-(12).jpg
+D:\Machine Learning\train\bmw_4-series-gran-coupe_2018-Present\bmw-4-series-gran-coupe-2018 - Present-(16).jpg
+D:\Machine Learning\train\bmw_4-series-gran-coupe_2018-Present\bmw-4-series-gran-coupe-2018 - Present-(17).jpg
+D:\Machine Learning\train\bmw_4-series-gran-coupe_2018-Present\bmw-4-series-gran-coupe-2018 - Present-(19).jpg
+D:\Machine Learning\train\bmw_4-series-gran-coupe_2018-Present\bmw-4-series-gran-coupe-2018 - Present-(2).jpg
+D:\Machine Learning\train\bmw_4-series-gran-coupe_2018-Present\bmw-4-series-gran-coupe-2018 - Present-(20).jpg
+D:\Machine Learning\train\bmw_4-series-gran-coupe_2018-Present\bmw-4-series-gran-coupe-2018 - Present-(21).jpg
+D:\Machine Learning\train\bmw_4-series-gran-coupe_2018-Present\bmw-4-series-gran-coupe-2018 - Present-(23).jpg
+D:\Machine Learning\train\bmw_4-series-gran-coupe_2018-Present\bmw-4-series-gran-coupe-2018 - Present-(24).jpg
+D:\Machine Learning\train\bmw_4-series-gran-coupe_2018-Present\bmw-4-series-gran-coupe-2018 - Present-(25).jpg
+D:\Machine Learning\train\bmw_4-series-gran-coupe_2018-Present\bmw-4-series-gran-coupe-2018 - Present-(26).jpg
+D:\Machine Learning\train\bmw_4-series-gran-coupe_2018-Present\bmw-4-series-gran-coupe-2018 - Present-(27).jpg
+D:\Machine Learning\train\bmw_4-series-gran-coupe_2018-Present\bmw-4-series-gran-coupe-2018 - Present-(28).jpg
+D:\Machine Learning\train\bmw_4-series-gran-coupe_2018-Present\bmw-4-series-gran-coupe-2018 - Present-(29).jpg
+D:\Machine Learning\train\bmw_4-series-gran-coupe_2018-Present\bmw-4-series-gran-coupe-2018 - Present-(30).jpg
+D:\Machine Learning\train\bmw_4-series-gran-coupe_2018-Present\bmw-4-series-gran-coupe-2018 - Present-(33).jpg
+D:\Machine Learning\train\bmw_4-series-gran-coupe_2018-Present\bmw-4-series-gran-coupe-2018 - Present-(34).jpg
+D:\Machine Learning\train\bmw_4-series-gran-coupe_2018-Present\bmw-4-series-gran-coupe-2018 - Present-(35).jpg
+D:\Machine Learning\train\bmw_5-series-sedan_2003-2007\bmw-5-series-sedan-2003 - 2007-(16).jpg
+D:\Machine Learning\train\bmw_5-series-sedan_2009-2013\bmw-5-series-sedan-2009 - 2013-(110).jpg
+D:\Machine Learning\train\bmw_5-series-touring_2004-2007\bmw-5-series-touring-2004 - 2007-(27).jpg
+D:\Machine Learning\train\bmw_5-series-touring_2004-2007\bmw-5-series-touring-2004 - 2007-(45).jpg
+D:\Machine Learning\train\bmw_5-series-touring_2010-2013\bmw_5-series-touring_2010-2013_42.jpg
+D:\Machine Learning\train\bmw_507_1955-1959\bmw-507-1955 - 1959-(10).jpg
+D:\Machine Learning\train\bmw_507_1955-1959\bmw-507-1955 - 1959-(11).jpg
+D:\Machine Learning\train\bmw_507_1955-1959\bmw-507-1955 - 1959-(12).jpg
+D:\Machine Learning\train\bmw_507_1955-1959\bmw-507-1955 - 1959-(14).jpg
+D:\Machine Learning\train\bmw_507_1955-1959\bmw-507-1955 - 1959-(15).jpg
+D:\Machine Learning\train\bmw_507_1955-1959\bmw-507-1955 - 1959-(17).jpg
+D:\Machine Learning\train\bmw_507_1955-1959\bmw-507-1955 - 1959-(22).jpg
+D:\Machine Learning\train\bmw_507_1955-1959\bmw_507_1955-1959_9.jpg
+D:\Machine Learning\train\bmw_6-series-coupe_2011-2015\bmw-6-series-coupe-2011 - 2015-(105).jpg
+D:\Machine Learning\train\bmw_7-series_2016-2019\bmw-7-series-2016 - 2019-(117).jpg
+D:\Machine Learning\train\bmw_7-series_2016-2019\bmw-7-series-2016 - 2019-(152).jpg
+D:\Machine Learning\train\bmw_8-series_1989-1999\bmw-8-series-1989 - 1999-(13).jpg
+D:\Machine Learning\train\bmw_8-series_1989-1999\bmw-8-series-1989 - 1999-(14).jpg
+D:\Machine Learning\train\bmw_8-series_1989-1999\bmw-8-series-1989 - 1999-(15).jpg
+D:\Machine Learning\train\bmw_8-series_1989-1999\bmw-8-series-1989 - 1999-(17).jpg
+D:\Machine Learning\train\bmw_8-series_1989-1999\bmw-8-series-1989 - 1999-(18).jpg
+D:\Machine Learning\train\bmw_8-series_1989-1999\bmw-8-series-1989 - 1999-(19).jpg
+D:\Machine Learning\train\bmw_8-series_1989-1999\bmw-8-series-1989 - 1999-(20).jpg
+D:\Machine Learning\train\bmw_8-series_1989-1999\bmw-8-series-1989 - 1999-(21).jpg
+D:\Machine Learning\train\bmw_8-series_1989-1999\bmw-8-series-1989 - 1999-(22).jpg
+D:\Machine Learning\train\bmw_8-series_1989-1999\bmw-8-series-1989 - 1999-(23).jpg
+D:\Machine Learning\train\bmw_8-series_1989-1999\bmw-8-series-1989 - 1999-(24).jpg
+D:\Machine Learning\train\bmw_8-series_1989-1999\bmw-8-series-1989 - 1999-(25).jpg
+D:\Machine Learning\train\bmw_8-series_1989-1999\bmw-8-series-1989 - 1999-(26).jpg
+D:\Machine Learning\train\bmw_8-series_1989-1999\bmw-8-series-1989 - 1999-(27).jpg
+D:\Machine Learning\train\bmw_8-series_1989-1999\bmw-8-series-1989 - 1999-(28).jpg
+D:\Machine Learning\train\bmw_8-series_1989-1999\bmw-8-series-1989 - 1999-(29).jpg
+D:\Machine Learning\train\bmw_8-series_1989-1999\bmw-8-series-1989 - 1999-(30).jpg
+D:\Machine Learning\train\bmw_8-series_1989-1999\bmw-8-series-1989 - 1999-(31).jpg
+D:\Machine Learning\train\bmw_8-series_1989-1999\bmw-8-series-1989 - 1999-(32).jpg
+D:\Machine Learning\train\bmw_8-series_1989-1999\bmw-8-series-1989 - 1999-(33).jpg
+D:\Machine Learning\train\bmw_8-series_1989-1999\bmw-8-series-1989 - 1999-(34).jpg
+D:\Machine Learning\train\bmw_8-series_1989-1999\bmw-8-series-1989 - 1999-(35).jpg
+D:\Machine Learning\train\bmw_8-series_1989-1999\bmw-8-series-1989 - 1999-(36).jpg
+D:\Machine Learning\train\bmw_8-series_1989-1999\bmw-8-series-1989 - 1999-(37).jpg
+D:\Machine Learning\train\bmw_8-series_1989-1999\bmw-8-series-1989 - 1999-(38).jpg
+D:\Machine Learning\train\bmw_8-series_1989-1999\bmw-8-series-1989 - 1999-(39).jpg
+D:\Machine Learning\train\bmw_8-series_1989-1999\bmw-8-series-1989 - 1999-(40).jpg
+D:\Machine Learning\train\bmw_8-series_1989-1999\bmw-8-series-1989 - 1999-(41).jpg
+D:\Machine Learning\train\bmw_8-series_1989-1999\bmw-8-series-1989 - 1999-(42).jpg
+D:\Machine Learning\train\bmw_8-series_1989-1999\bmw-8-series-1989 - 1999-(43).jpg
+D:\Machine Learning\train\bmw_8-series_1989-1999\bmw-8-series-1989 - 1999-(44).jpg
+D:\Machine Learning\train\bmw_8-series_1989-1999\bmw-8-series-1989 - 1999-(45).jpg
+D:\Machine Learning\train\bmw_8-series_1989-1999\bmw_8-series_1989-1999_3.jpg
+D:\Machine Learning\train\bmw_8-series_1989-1999\bmw_8-series_1989-1999_4.jpg
+D:\Machine Learning\train\bmw_8-series_1989-1999\bmw_8-series_1989-1999_5.jpg
+D:\Machine Learning\train\bmw_8-series_1989-1999\bmw_8-series_1989-1999_6.jpg
+D:\Machine Learning\train\bmw_8-series_1989-1999\bmw_8-series_1989-1999_7.jpg
+D:\Machine Learning\train\bmw_i8-roadster_2018-2020\bmw_i8-roadster_2018-2020_27.jpg
+D:\Machine Learning\train\bmw_isetta_1955-1962\bmw-isetta-1955 - 1962-(0).jpg
+D:\Machine Learning\train\bmw_isetta_1955-1962\bmw-isetta-1955 - 1962-(1).jpg
+D:\Machine Learning\train\bmw_m2_2015-2018\bmw_m2_2015-2018_0.jpg
+D:\Machine Learning\train\bmw_m2_2015-2018\bmw_m2_2015-2018_1.jpg
+D:\Machine Learning\train\bmw_m2_2015-2018\bmw_m2_2015-2018_2.jpg
+D:\Machine Learning\train\bmw_m2_2015-2018\bmw_m2_2015-2018_3.jpg
+D:\Machine Learning\train\bmw_m2_2015-2018\bmw_m2_2015-2018_4.jpg
+D:\Machine Learning\train\bmw_m2_2018-Present\bmw-m2-2018 - Present-(11).jpg
+D:\Machine Learning\train\bmw_m2_2018-Present\bmw-m2-2018 - Present-(18).jpg
+D:\Machine Learning\train\bmw_m2_2018-Present\bmw-m2-2018 - Present-(22).jpg
+D:\Machine Learning\train\bmw_m2_2018-Present\bmw-m2-2018 - Present-(23).jpg
+D:\Machine Learning\train\bmw_m2_2018-Present\bmw-m2-2018 - Present-(25).jpg
+D:\Machine Learning\train\bmw_m2_2018-Present\bmw-m2-2018 - Present-(28).jpg
+D:\Machine Learning\train\bmw_m2_2018-Present\bmw-m2-2018 - Present-(29).jpg
+D:\Machine Learning\train\bmw_m2_2018-Present\bmw-m2-2018 - Present-(31).jpg
+D:\Machine Learning\train\bmw_m2_2018-Present\bmw_m2_2018-Present_3.jpg
+D:\Machine Learning\train\bmw_m2_2019-Present\bmw-m2-2019 - Present-(139).jpg
+D:\Machine Learning\train\bmw_m2_2019-Present\bmw_m2_2019-Present_1.jpg
+D:\Machine Learning\train\bmw_m2_2019-Present\bmw_m2_2019-Present_10.jpg
+D:\Machine Learning\train\bmw_m2_2019-Present\bmw_m2_2019-Present_11.jpg
+D:\Machine Learning\train\bmw_m2_2019-Present\bmw_m2_2019-Present_12.jpg
+D:\Machine Learning\train\bmw_m2_2019-Present\bmw_m2_2019-Present_13.jpg
+D:\Machine Learning\train\bmw_m2_2019-Present\bmw_m2_2019-Present_14.jpg
+D:\Machine Learning\train\bmw_m2_2019-Present\bmw_m2_2019-Present_15.jpg
+D:\Machine Learning\train\bmw_m2_2019-Present\bmw_m2_2019-Present_16.jpg
+D:\Machine Learning\train\bmw_m2_2019-Present\bmw_m2_2019-Present_17.jpg
+D:\Machine Learning\train\bmw_m2_2019-Present\bmw_m2_2019-Present_18.jpg
+D:\Machine Learning\train\bmw_m2_2019-Present\bmw_m2_2019-Present_19.jpg
+D:\Machine Learning\train\bmw_m2_2019-Present\bmw_m2_2019-Present_2.jpg
+D:\Machine Learning\train\bmw_m2_2019-Present\bmw_m2_2019-Present_20.jpg
+D:\Machine Learning\train\bmw_m2_2019-Present\bmw_m2_2019-Present_21.jpg
+D:\Machine Learning\train\bmw_m2_2019-Present\bmw_m2_2019-Present_22.jpg
+D:\Machine Learning\train\bmw_m2_2019-Present\bmw_m2_2019-Present_23.jpg
+D:\Machine Learning\train\bmw_m2_2019-Present\bmw_m2_2019-Present_24.jpg
+D:\Machine Learning\train\bmw_m2_2019-Present\bmw_m2_2019-Present_25.jpg
+D:\Machine Learning\train\bmw_m2_2019-Present\bmw_m2_2019-Present_26.jpg
+D:\Machine Learning\train\bmw_m2_2019-Present\bmw_m2_2019-Present_27.jpg
+D:\Machine Learning\train\bmw_m2_2019-Present\bmw_m2_2019-Present_28.jpg
+D:\Machine Learning\train\bmw_m2_2019-Present\bmw_m2_2019-Present_29.jpg
+D:\Machine Learning\train\bmw_m2_2019-Present\bmw_m2_2019-Present_3.jpg
+D:\Machine Learning\train\bmw_m2_2019-Present\bmw_m2_2019-Present_30.jpg
+D:\Machine Learning\train\bmw_m2_2019-Present\bmw_m2_2019-Present_31.jpg
+D:\Machine Learning\train\bmw_m2_2019-Present\bmw_m2_2019-Present_32.jpg
+D:\Machine Learning\train\bmw_m2_2019-Present\bmw_m2_2019-Present_33.jpg
+D:\Machine Learning\train\bmw_m2_2019-Present\bmw_m2_2019-Present_34.jpg
+D:\Machine Learning\train\bmw_m2_2019-Present\bmw_m2_2019-Present_35.jpg
+D:\Machine Learning\train\bmw_m2_2019-Present\bmw_m2_2019-Present_36.jpg
+D:\Machine Learning\train\bmw_m2_2019-Present\bmw_m2_2019-Present_37.jpg
+D:\Machine Learning\train\bmw_m2_2019-Present\bmw_m2_2019-Present_38.jpg
+D:\Machine Learning\train\bmw_m2_2019-Present\bmw_m2_2019-Present_39.jpg
+D:\Machine Learning\train\bmw_m2_2019-Present\bmw_m2_2019-Present_4.jpg
+D:\Machine Learning\train\bmw_m2_2019-Present\bmw_m2_2019-Present_40.jpg
+D:\Machine Learning\train\bmw_m2_2019-Present\bmw_m2_2019-Present_5.jpg
+D:\Machine Learning\train\bmw_m2_2019-Present\bmw_m2_2019-Present_6.jpg
+D:\Machine Learning\train\bmw_m2_2019-Present\bmw_m2_2019-Present_7.jpg
+D:\Machine Learning\train\bmw_m2_2019-Present\bmw_m2_2019-Present_8.jpg
+D:\Machine Learning\train\bmw_m2_2019-Present\bmw_m2_2019-Present_9.jpg
+D:\Machine Learning\train\bmw_m4-convertible_2014-Present\bmw-m4-convertible-2014 - Present-(28).jpg
+D:\Machine Learning\train\bmw_m6-coupe_1984-1989\bmw-m6-coupe-1984 - 1989-(11).jpg
+D:\Machine Learning\train\bmw_m6-coupe_2012-2014\bmw-m6-coupe-2012 - 2014-(103).jpg
+D:\Machine Learning\train\bmw_m6-coupe_2012-2014\bmw-m6-coupe-2012 - 2014-(28).jpg
+D:\Machine Learning\train\bmw_m6-coupe_2014-2018\bmw-m6-coupe-2014 - 2018-(12).jpg
+D:\Machine Learning\train\bmw_x1_2009-2016\bmw-x1-2009 - 2016-(0).jpg
+D:\Machine Learning\train\bmw_x1_2009-2016\bmw-x1-2009 - 2016-(10).jpg
+D:\Machine Learning\train\bmw_x1_2009-2016\bmw-x1-2009 - 2016-(100).jpg
+D:\Machine Learning\train\bmw_x1_2009-2016\bmw-x1-2009 - 2016-(101).jpg
+D:\Machine Learning\train\bmw_x1_2009-2016\bmw-x1-2009 - 2016-(102).jpg
+D:\Machine Learning\train\bmw_x1_2009-2016\bmw-x1-2009 - 2016-(103).jpg
+D:\Machine Learning\train\bmw_x1_2009-2016\bmw-x1-2009 - 2016-(104).jpg
+D:\Machine Learning\train\bmw_x1_2009-2016\bmw-x1-2009 - 2016-(105).jpg
+D:\Machine Learning\train\bmw_x1_2009-2016\bmw-x1-2009 - 2016-(106).jpg
+D:\Machine Learning\train\bmw_x1_2009-2016\bmw-x1-2009 - 2016-(107).jpg
+D:\Machine Learning\train\bmw_x1_2009-2016\bmw-x1-2009 - 2016-(108).jpg
+D:\Machine Learning\train\bmw_x1_2009-2016\bmw-x1-2009 - 2016-(109).jpg
+D:\Machine Learning\train\bmw_x1_2009-2016\bmw-x1-2009 - 2016-(11).jpg
+D:\Machine Learning\train\bmw_x1_2009-2016\bmw-x1-2009 - 2016-(110).jpg
+D:\Machine Learning\train\bmw_x1_2009-2016\bmw-x1-2009 - 2016-(111).jpg
+D:\Machine Learning\train\bmw_x1_2009-2016\bmw-x1-2009 - 2016-(112).jpg
+D:\Machine Learning\train\bmw_x1_2009-2016\bmw-x1-2009 - 2016-(113).jpg
+D:\Machine Learning\train\bmw_x1_2009-2016\bmw-x1-2009 - 2016-(114).jpg
+D:\Machine Learning\train\bmw_x1_2009-2016\bmw-x1-2009 - 2016-(116).jpg
+D:\Machine Learning\train\bmw_x1_2009-2016\bmw-x1-2009 - 2016-(117).jpg
+D:\Machine Learning\train\bmw_x1_2009-2016\bmw-x1-2009 - 2016-(118).jpg
+D:\Machine Learning\train\bmw_x1_2009-2016\bmw-x1-2009 - 2016-(12).jpg
+D:\Machine Learning\train\bmw_x1_2009-2016\bmw-x1-2009 - 2016-(120).jpg
+D:\Machine Learning\train\bmw_x1_2009-2016\bmw-x1-2009 - 2016-(121).jpg
+D:\Machine Learning\train\bmw_x1_2009-2016\bmw-x1-2009 - 2016-(123).jpg
+D:\Machine Learning\train\bmw_x1_2009-2016\bmw-x1-2009 - 2016-(124).jpg
+D:\Machine Learning\train\bmw_x1_2009-2016\bmw-x1-2009 - 2016-(125).jpg
+D:\Machine Learning\train\bmw_x1_2009-2016\bmw-x1-2009 - 2016-(126).jpg
+D:\Machine Learning\train\bmw_x1_2009-2016\bmw-x1-2009 - 2016-(127).jpg
+D:\Machine Learning\train\bmw_x1_2009-2016\bmw-x1-2009 - 2016-(128).jpg
+D:\Machine Learning\train\bmw_x1_2009-2016\bmw-x1-2009 - 2016-(132).jpg
+D:\Machine Learning\train\bmw_x1_2009-2016\bmw-x1-2009 - 2016-(133).jpg
+D:\Machine Learning\train\bmw_x1_2009-2016\bmw-x1-2009 - 2016-(134).jpg
+D:\Machine Learning\train\bmw_x1_2009-2016\bmw-x1-2009 - 2016-(135).jpg
+D:\Machine Learning\train\bmw_x1_2009-2016\bmw-x1-2009 - 2016-(137).jpg
+D:\Machine Learning\train\bmw_x1_2009-2016\bmw-x1-2009 - 2016-(138).jpg
+D:\Machine Learning\train\bmw_x1_2009-2016\bmw-x1-2009 - 2016-(139).jpg
+D:\Machine Learning\train\bmw_x1_2009-2016\bmw-x1-2009 - 2016-(14).jpg
+D:\Machine Learning\train\bmw_x1_2009-2016\bmw-x1-2009 - 2016-(141).jpg
+D:\Machine Learning\train\bmw_x1_2009-2016\bmw-x1-2009 - 2016-(142).jpg
+D:\Machine Learning\train\bmw_x1_2009-2016\bmw-x1-2009 - 2016-(143).jpg
+D:\Machine Learning\train\bmw_x1_2009-2016\bmw-x1-2009 - 2016-(145).jpg
+D:\Machine Learning\train\bmw_x1_2009-2016\bmw-x1-2009 - 2016-(146).jpg
+D:\Machine Learning\train\bmw_x1_2009-2016\bmw-x1-2009 - 2016-(148).jpg
+D:\Machine Learning\train\bmw_x1_2009-2016\bmw-x1-2009 - 2016-(15).jpg
+D:\Machine Learning\train\bmw_x1_2009-2016\bmw-x1-2009 - 2016-(150).jpg
+D:\Machine Learning\train\bmw_x1_2009-2016\bmw-x1-2009 - 2016-(152).jpg
+D:\Machine Learning\train\bmw_x1_2009-2016\bmw-x1-2009 - 2016-(153).jpg
+D:\Machine Learning\train\bmw_x1_2009-2016\bmw-x1-2009 - 2016-(154).jpg
+D:\Machine Learning\train\bmw_x1_2009-2016\bmw-x1-2009 - 2016-(156).jpg
+D:\Machine Learning\train\bmw_x1_2009-2016\bmw-x1-2009 - 2016-(158).jpg
+D:\Machine Learning\train\bmw_x1_2009-2016\bmw-x1-2009 - 2016-(159).jpg
+D:\Machine Learning\train\bmw_x1_2009-2016\bmw-x1-2009 - 2016-(16).jpg
+D:\Machine Learning\train\bmw_x1_2009-2016\bmw-x1-2009 - 2016-(161).jpg
+D:\Machine Learning\train\bmw_x1_2009-2016\bmw-x1-2009 - 2016-(162).jpg
+D:\Machine Learning\train\bmw_x1_2009-2016\bmw-x1-2009 - 2016-(165).jpg
+D:\Machine Learning\train\bmw_x1_2009-2016\bmw-x1-2009 - 2016-(167).jpg
+D:\Machine Learning\train\bmw_x1_2009-2016\bmw-x1-2009 - 2016-(17).jpg
+D:\Machine Learning\train\bmw_x1_2009-2016\bmw-x1-2009 - 2016-(170).jpg
+D:\Machine Learning\train\bmw_x1_2009-2016\bmw-x1-2009 - 2016-(172).jpg
+D:\Machine Learning\train\bmw_x1_2009-2016\bmw-x1-2009 - 2016-(173).jpg
+D:\Machine Learning\train\bmw_x1_2009-2016\bmw-x1-2009 - 2016-(174).jpg
+D:\Machine Learning\train\bmw_x1_2009-2016\bmw-x1-2009 - 2016-(175).jpg
+D:\Machine Learning\train\bmw_x1_2009-2016\bmw-x1-2009 - 2016-(176).jpg
+D:\Machine Learning\train\bmw_x1_2009-2016\bmw-x1-2009 - 2016-(177).jpg
+D:\Machine Learning\train\bmw_x1_2009-2016\bmw-x1-2009 - 2016-(178).jpg
+D:\Machine Learning\train\bmw_x1_2009-2016\bmw-x1-2009 - 2016-(179).jpg
+D:\Machine Learning\train\bmw_x1_2009-2016\bmw-x1-2009 - 2016-(18).jpg
+D:\Machine Learning\train\bmw_x1_2009-2016\bmw-x1-2009 - 2016-(180).jpg
+D:\Machine Learning\train\bmw_x1_2009-2016\bmw-x1-2009 - 2016-(181).jpg
+D:\Machine Learning\train\bmw_x1_2009-2016\bmw-x1-2009 - 2016-(182).jpg
+D:\Machine Learning\train\bmw_x1_2009-2016\bmw-x1-2009 - 2016-(183).jpg
+D:\Machine Learning\train\bmw_x1_2009-2016\bmw-x1-2009 - 2016-(184).jpg
+D:\Machine Learning\train\bmw_x1_2009-2016\bmw-x1-2009 - 2016-(185).jpg
+D:\Machine Learning\train\bmw_x1_2009-2016\bmw-x1-2009 - 2016-(186).jpg
+D:\Machine Learning\train\bmw_x1_2009-2016\bmw-x1-2009 - 2016-(187).jpg
+D:\Machine Learning\train\bmw_x1_2009-2016\bmw-x1-2009 - 2016-(188).jpg
+D:\Machine Learning\train\bmw_x1_2016-2019\bmw-x1-2016 - 2019-(13).jpg
+D:\Machine Learning\train\bmw_x1_2016-2019\bmw-x1-2016 - 2019-(15).jpg
+D:\Machine Learning\train\bmw_x1_2016-2019\bmw-x1-2016 - 2019-(16).jpg
+D:\Machine Learning\train\bmw_x1_2016-2019\bmw-x1-2016 - 2019-(17).jpg
+D:\Machine Learning\train\bmw_x1_2016-2019\bmw-x1-2016 - 2019-(18).jpg
+D:\Machine Learning\train\bmw_x1_2016-2019\bmw-x1-2016 - 2019-(19).jpg
+D:\Machine Learning\train\bmw_x1_2016-2019\bmw-x1-2016 - 2019-(2).jpg
+D:\Machine Learning\train\bmw_x1_2016-2019\bmw-x1-2016 - 2019-(20).jpg
+D:\Machine Learning\train\bmw_x1_2016-2019\bmw-x1-2016 - 2019-(21).jpg
+D:\Machine Learning\train\bmw_x1_2016-2019\bmw-x1-2016 - 2019-(22).jpg
+D:\Machine Learning\train\bmw_x1_2016-2019\bmw-x1-2016 - 2019-(23).jpg
+D:\Machine Learning\train\bmw_x1_2016-2019\bmw-x1-2016 - 2019-(24).jpg
+D:\Machine Learning\train\bmw_x1_2016-2019\bmw-x1-2016 - 2019-(25).jpg
+D:\Machine Learning\train\bmw_x1_2016-2019\bmw-x1-2016 - 2019-(26).jpg
+D:\Machine Learning\train\bmw_x1_2016-2019\bmw-x1-2016 - 2019-(27).jpg
+D:\Machine Learning\train\bmw_x1_2016-2019\bmw-x1-2016 - 2019-(28).jpg
+D:\Machine Learning\train\bmw_x1_2016-2019\bmw-x1-2016 - 2019-(29).jpg
+D:\Machine Learning\train\bmw_x1_2016-2019\bmw-x1-2016 - 2019-(3).jpg
+D:\Machine Learning\train\bmw_x1_2016-2019\bmw-x1-2016 - 2019-(30).jpg
+D:\Machine Learning\train\bmw_x1_2016-2019\bmw-x1-2016 - 2019-(31).jpg
+D:\Machine Learning\train\bmw_x1_2016-2019\bmw-x1-2016 - 2019-(32).jpg
+D:\Machine Learning\train\bmw_x1_2016-2019\bmw-x1-2016 - 2019-(33).jpg
+D:\Machine Learning\train\bmw_x1_2016-2019\bmw-x1-2016 - 2019-(34).jpg
+D:\Machine Learning\train\bmw_x1_2016-2019\bmw-x1-2016 - 2019-(35).jpg
+D:\Machine Learning\train\bmw_x1_2016-2019\bmw-x1-2016 - 2019-(36).jpg
+D:\Machine Learning\train\bmw_x1_2016-2019\bmw-x1-2016 - 2019-(37).jpg
+D:\Machine Learning\train\bmw_x1_2016-2019\bmw-x1-2016 - 2019-(38).jpg
+D:\Machine Learning\train\bmw_x1_2016-2019\bmw-x1-2016 - 2019-(39).jpg
+D:\Machine Learning\train\bmw_x1_2016-2019\bmw-x1-2016 - 2019-(40).jpg
+D:\Machine Learning\train\bmw_x1_2016-2019\bmw-x1-2016 - 2019-(41).jpg
+D:\Machine Learning\train\bmw_x1_2016-2019\bmw-x1-2016 - 2019-(42).jpg
+D:\Machine Learning\train\bmw_x1_2016-2019\bmw-x1-2016 - 2019-(43).jpg
+D:\Machine Learning\train\bmw_x1_2016-2019\bmw-x1-2016 - 2019-(45).jpg
+D:\Machine Learning\train\bmw_x1_2016-2019\bmw-x1-2016 - 2019-(46).jpg
+D:\Machine Learning\train\bmw_x1_2016-2019\bmw-x1-2016 - 2019-(47).jpg
+D:\Machine Learning\train\bmw_x1_2016-2019\bmw-x1-2016 - 2019-(55).jpg
+D:\Machine Learning\train\bmw_x1_2016-2019\bmw_x1_2016-2019_2.jpg
+D:\Machine Learning\train\bmw_x1_2016-2019\bmw_x1_2016-2019_3.jpg
+D:\Machine Learning\train\bmw_x1_2016-2019\bmw_x1_2016-2019_4.jpg
+D:\Machine Learning\train\bmw_x1_2016-2019\bmw_x1_2016-2019_5.jpg
+D:\Machine Learning\train\bmw_x1_2019-Present\bmw-x1-2019 - Present-(11).jpg
+D:\Machine Learning\train\bmw_x1_2019-Present\bmw-x1-2019 - Present-(13).jpg
+D:\Machine Learning\train\bmw_x1_2019-Present\bmw-x1-2019 - Present-(14).jpg
+D:\Machine Learning\train\bmw_x1_2019-Present\bmw-x1-2019 - Present-(15).jpg
+D:\Machine Learning\train\bmw_x1_2019-Present\bmw-x1-2019 - Present-(16).jpg
+D:\Machine Learning\train\bmw_x1_2019-Present\bmw-x1-2019 - Present-(17).jpg
+D:\Machine Learning\train\bmw_x1_2019-Present\bmw-x1-2019 - Present-(18).jpg
+D:\Machine Learning\train\bmw_x1_2019-Present\bmw-x1-2019 - Present-(19).jpg
+D:\Machine Learning\train\bmw_x1_2019-Present\bmw-x1-2019 - Present-(2).jpg
+D:\Machine Learning\train\bmw_x1_2019-Present\bmw-x1-2019 - Present-(20).jpg
+D:\Machine Learning\train\bmw_x1_2019-Present\bmw-x1-2019 - Present-(21).jpg
+D:\Machine Learning\train\bmw_x1_2019-Present\bmw-x1-2019 - Present-(22).jpg
+D:\Machine Learning\train\bmw_x1_2019-Present\bmw-x1-2019 - Present-(23).jpg
+D:\Machine Learning\train\bmw_x1_2019-Present\bmw-x1-2019 - Present-(24).jpg
+D:\Machine Learning\train\bmw_x1_2019-Present\bmw-x1-2019 - Present-(25).jpg
+D:\Machine Learning\train\bmw_x1_2019-Present\bmw-x1-2019 - Present-(26).jpg
+D:\Machine Learning\train\bmw_x1_2019-Present\bmw-x1-2019 - Present-(27).jpg
+D:\Machine Learning\train\bmw_x1_2019-Present\bmw-x1-2019 - Present-(28).jpg
+D:\Machine Learning\train\bmw_x1_2019-Present\bmw-x1-2019 - Present-(29).jpg
+D:\Machine Learning\train\bmw_x1_2019-Present\bmw-x1-2019 - Present-(3).jpg
+D:\Machine Learning\train\bmw_x1_2019-Present\bmw_x1_2019-Present_3.jpg
+D:\Machine Learning\train\bmw_x2_2018-Present\bmw-x2-2018 - Present-(115).jpg
+D:\Machine Learning\train\bmw_x2_2018-Present\bmw-x2-2018 - Present-(118).jpg
+D:\Machine Learning\train\bmw_x2_2018-Present\bmw-x2-2018 - Present-(163).jpg
+D:\Machine Learning\train\bmw_x2_2018-Present\bmw-x2-2018 - Present-(180).jpg
+D:\Machine Learning\train\bmw_x2_2018-Present\bmw-x2-2018 - Present-(185).jpg
+D:\Machine Learning\train\bmw_x4_2018-Present\bmw_x4_2018-Present_47.jpg
+D:\Machine Learning\train\bmw_x4_2018-Present\bmw_x4_2018-Present_50.jpg
+D:\Machine Learning\train\bmw_x5_2010-2014\bmw_x5_2010-2014_45.jpg
+D:\Machine Learning\train\bmw_x5_2010-2014\bmw_x5_2010-2014_48.jpg
+D:\Machine Learning\train\bmw_x5_2010-2014\bmw_x5_2010-2014_55.jpg
+D:\Machine Learning\train\bmw_x5_2018-Present\bmw_x5_2018-Present_87.jpg
+D:\Machine Learning\train\bmw_x5_2018-Present\bmw_x5_2018-Present_95.jpg
+D:\Machine Learning\train\bmw_x6m_2009-2014\bmw-x6m-2009 - 2014-(103).jpg
+D:\Machine Learning\train\bmw_x6m_2009-2014\bmw-x6m-2009 - 2014-(24).jpg
+D:\Machine Learning\train\bmw_z1_1988-1991\bmw_z1_1988-1991_0.jpg
+D:\Machine Learning\train\bmw_z1_1988-1991\bmw_z1_1988-1991_1.jpg
+D:\Machine Learning\train\bmw_z1_1988-1991\bmw_z1_1988-1991_10.jpg
+D:\Machine Learning\train\bmw_z1_1988-1991\bmw_z1_1988-1991_11.jpg
+D:\Machine Learning\train\bmw_z1_1988-1991\bmw_z1_1988-1991_12.jpg
+D:\Machine Learning\train\bmw_z1_1988-1991\bmw_z1_1988-1991_13.jpg
+D:\Machine Learning\train\bmw_z1_1988-1991\bmw_z1_1988-1991_2.jpg
+D:\Machine Learning\train\bmw_z1_1988-1991\bmw_z1_1988-1991_3.jpg
+D:\Machine Learning\train\bmw_z1_1988-1991\bmw_z1_1988-1991_4.jpg
+D:\Machine Learning\train\bmw_z1_1988-1991\bmw_z1_1988-1991_5.jpg
+D:\Machine Learning\train\bmw_z1_1988-1991\bmw_z1_1988-1991_6.jpg
+D:\Machine Learning\train\bmw_z1_1988-1991\bmw_z1_1988-1991_7.jpg
+D:\Machine Learning\train\bmw_z1_1988-1991\bmw_z1_1988-1991_8.jpg
+D:\Machine Learning\train\bmw_z1_1988-1991\bmw_z1_1988-1991_9.jpg
+D:\Machine Learning\train\bmw_z3-coupe_1998-2002\bmw_z3-coupe_1998-2002_1.jpg
+D:\Machine Learning\train\bmw_z3-coupe_1998-2002\bmw_z3-coupe_1998-2002_2.jpg
+D:\Machine Learning\train\bmw_z3-coupe_1998-2002\bmw_z3-coupe_1998-2002_3.jpg
+D:\Machine Learning\train\bmw_z3-coupe_1998-2002\bmw_z3-coupe_1998-2002_4.jpg
+D:\Machine Learning\train\bmw_z3-coupe_1998-2002\bmw_z3-coupe_1998-2002_5.jpg
+D:\Machine Learning\train\bmw_z3-roadster_1996-2003\bmw_z3-roadster_1996-2003_0.jpg
+D:\Machine Learning\train\bmw_z3-roadster_1996-2003\bmw_z3-roadster_1996-2003_1.jpg
+D:\Machine Learning\train\bmw_z3-roadster_1996-2003\bmw_z3-roadster_1996-2003_10.jpg
+D:\Machine Learning\train\bmw_z3-roadster_1996-2003\bmw_z3-roadster_1996-2003_11.jpg
+D:\Machine Learning\train\bmw_z3-roadster_1996-2003\bmw_z3-roadster_1996-2003_12.jpg
+D:\Machine Learning\train\bmw_z3-roadster_1996-2003\bmw_z3-roadster_1996-2003_13.jpg
+D:\Machine Learning\train\bmw_z3-roadster_1996-2003\bmw_z3-roadster_1996-2003_14.jpg
+D:\Machine Learning\train\bmw_z3-roadster_1996-2003\bmw_z3-roadster_1996-2003_2.jpg
+D:\Machine Learning\train\bmw_z3-roadster_1996-2003\bmw_z3-roadster_1996-2003_3.jpg
+D:\Machine Learning\train\bmw_z3-roadster_1996-2003\bmw_z3-roadster_1996-2003_4.jpg
+D:\Machine Learning\train\bmw_z3-roadster_1996-2003\bmw_z3-roadster_1996-2003_5.jpg
+D:\Machine Learning\train\bmw_z3-roadster_1996-2003\bmw_z3-roadster_1996-2003_6.jpg
+D:\Machine Learning\train\bmw_z3-roadster_1996-2003\bmw_z3-roadster_1996-2003_7.jpg
+D:\Machine Learning\train\bmw_z3-roadster_1996-2003\bmw_z3-roadster_1996-2003_8.jpg
+D:\Machine Learning\train\bmw_z3-roadster_1996-2003\bmw_z3-roadster_1996-2003_9.jpg
+D:\Machine Learning\train\bmw_z3-roadster_1997-2002\bmw-z3-roadster-1997 - 2002-(1).jpg
+D:\Machine Learning\train\bmw_z3-roadster_1997-2002\bmw-z3-roadster-1997 - 2002-(11).jpg
+D:\Machine Learning\train\bmw_z3-roadster_1997-2002\bmw-z3-roadster-1997 - 2002-(12).jpg
+D:\Machine Learning\train\bmw_z3-roadster_1997-2002\bmw-z3-roadster-1997 - 2002-(13).jpg
+D:\Machine Learning\train\bmw_z3-roadster_1997-2002\bmw-z3-roadster-1997 - 2002-(14).jpg
+D:\Machine Learning\train\bmw_z3-roadster_1997-2002\bmw_z3-roadster_1997-2002_1.jpg
+D:\Machine Learning\train\bmw_z4-roadster_2009-2013\bmw-z4-roadster-2009 - 2013-(101).jpg
+D:\Machine Learning\train\bmw_z4-roadster_2013-2016\bmw-z4-roadster-2013 - 2016-(122).jpg
+D:\Machine Learning\train\chevrolet_suburban_2018-Present\chevrolet_suburban_2018-Present_0.jpg
+D:\Machine Learning\train\chevrolet_suburban_2018-Present\chevrolet_suburban_2018-Present_1.jpg
+D:\Machine Learning\train\chevrolet_suburban_2018-Present\chevrolet_suburban_2018-Present_2.jpg
+D:\Machine Learning\train\dacia_sandero-stepway_2012-2016\dacia-sandero-stepway-2012 - 2016-(12).jpg
+D:\Machine Learning\train\dodge_charger-srt_2012-Present\dodge-charger-srt-2012 - Present-(110).jpg
+D:\Machine Learning\train\ferrari_f12-berlinetta_2012-2015\ferrari-f12-berlinetta-2012 - 2015-(112).jpg
+D:\Machine Learning\train\ferrari_f430_2007-2009\ferrari-f430-2007 - 2009-(27).jpg
+D:\Machine Learning\train\hyundai_accent-5-doors_1999-2003\hyundai-accent-5-doors-1999 - 2003-(12).jpg
+D:\Machine Learning\train\infiniti_qx60_2013-2016\infiniti-qx60-2013 - 2016-(29).jpg
+D:\Machine Learning\train\jaguar_xe_2015-2019\jaguar-xe-2015 - 2019-(16).jpg
+D:\Machine Learning\train\jaguar_xe_2015-2019\jaguar-xe-2015 - 2019-(20).jpg
+D:\Machine Learning\train\jaguar_xe_2015-2019\jaguar-xe-2015 - 2019-(25).jpg
+D:\Machine Learning\train\jaguar_xe_2015-2019\jaguar-xe-2015 - 2019-(26).jpg
+D:\Machine Learning\train\jaguar_xe_2015-2019\jaguar-xe-2015 - 2019-(31).jpg
+D:\Machine Learning\train\jaguar_xe_2018-Present\jaguar-xe-2018 - Present-(11).jpg
+D:\Machine Learning\train\jeep_renegade_2018-Present\jeep-renegade-2018 - Present-(28).jpg
+D:\Machine Learning\train\lancia_ypsilon_2011-2015\lancia-ypsilon-2011 - 2015-(100).jpg
+D:\Machine Learning\train\lancia_ypsilon_2011-2015\lancia-ypsilon-2011 - 2015-(102).jpg
+D:\Machine Learning\train\lexus_gs-f_2015-Present\lexus-gs-f-2015 - Present-(10).jpg
+D:\Machine Learning\train\lexus_gs-f_2015-Present\lexus-gs-f-2015 - Present-(27).jpg
+D:\Machine Learning\train\lexus_nx_2014-2017\lexus-nx-2014 - 2017-(17).jpg
+D:\Machine Learning\train\lexus_rc-f_2014-Present\lexus-rc-f-2014 - Present-(122).jpg
+D:\Machine Learning\train\lexus_rx_2016-2019\lexus_rx_2016-2019_65.jpg
+D:\Machine Learning\train\mclaren_570s_2016-Present\mclaren-570s-2016 - Present-(16).jpg
+D:\Machine Learning\train\mercedes-amg_cla_2016-Present\mercedes-amg-cla-2016 - Present-(12).jpg
+D:\Machine Learning\train\mercedes-benz_a-klasse_2008-2012\mercedes-benz-a-klasse-2008 - 2012-(29).jpg
+D:\Machine Learning\train\mercedes-benz_a-klasse_2008-2012\mercedes-benz-a-klasse-2008 - 2012-(39).jpg
+D:\Machine Learning\train\mercedes-benz_a-klasse_2008-2012\mercedes-benz-a-klasse-2008 - 2012-(40).jpg
+D:\Machine Learning\train\mercedes-benz_a-klasse_2012-2015\mercedes-benz-a-klasse-2012 - 2015-(103).jpg
+D:\Machine Learning\train\mercedes-benz_c-klasse-and-predecessors_2007-2011\mercedes-benz_c-klasse-and-predecessors_2007-2011_40.jpg
+D:\Machine Learning\train\mercedes-benz_c-klasse-and-predecessors_2018-Present\mercedes-benz-c-klasse-and-predecessors-2018 - Present-(0).jpg
+D:\Machine Learning\train\mercedes-benz_gl-klasse-amg_2012-2016\mercedes-benz-gl-klasse-amg-2012 - 2016-(24).jpg
+D:\Machine Learning\train\mercedes-benz_gl-klasse-amg_2012-2016\mercedes-benz-gl-klasse-amg-2012 - 2016-(39).jpg
+D:\Machine Learning\train\mercedes-benz_glc-class_2015-2019\mercedes-benz-glc-class-2015 - 2019-(110).jpg
+D:\Machine Learning\train\mercedes-benz_glc-class_2019-Present\mercedes-benz-glc-class-2019 - Present-(31).jpg
+D:\Machine Learning\train\mini_clubman_2007-2015\mini_clubman_2007-2015_48.jpg
+D:\Machine Learning\train\mini_clubman_2019-Present\mini_clubman_2019-Present_85.jpg
+D:\Machine Learning\train\mini_coupe-1_2011-2015\mini-coupe-1-2011 - 2015-(17).jpg
+D:\Machine Learning\train\mini_roadster-3_2011-2015\mini-roadster-3-2011 - 2015-(100).jpg
+D:\Machine Learning\train\nissan_x-trail_2007-2013\nissan-x-trail-2007 - 2013-(27).jpg
+D:\Machine Learning\train\panoz_avezzano_2017-Present\panoz_avezzano_2017-Present_1.jpg
+D:\Machine Learning\train\panoz_avezzano_2017-Present\panoz_avezzano_2017-Present_2.jpg
+D:\Machine Learning\train\panoz_avezzano_2017-Present\panoz_avezzano_2017-Present_3.jpg
+D:\Machine Learning\train\porsche_911-targa-4s_2008-2013\porsche-911-targa-4s-2008 - 2013-(3).jpg
+D:\Machine Learning\train\porsche_911-turbo_1974-1977\porsche-911-turbo-1974 - 1977-(25).jpg
+D:\Machine Learning\train\porsche_911-turbo_1977-1989\porsche-911-turbo-1977 - 1989-(11).jpg
+D:\Machine Learning\train\ram-trucks_2500_2013-2016\ram-trucks_2500_2013-2016_0.jpg
+D:\Machine Learning\train\renault_megane-estate_2016-Present\renault-megane-estate-2016 - Present-(32).jpg
+D:\Machine Learning\train\suzuki_sx4-crossover_2006-2013\suzuki-sx4-crossover-2006 - 2013-(21).jpg
+D:\Machine Learning\train\toyota_corolla-touring_2019-Present\toyota-corolla-touring-2019 - Present-(0).jpg

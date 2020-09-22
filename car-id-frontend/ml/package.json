@@ -14,7 +14,7 @@
     "react-dropzone": "^11.0.2",
     "react-scripts": "3.4.2"
   },
-  "proxy":"http://127.0.0.1:5000",
+
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",

@@ -6,6 +6,7 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import "./App.css";
 
 const BASE_URL = "http://127.0.0.1:5000/";
+//const BASE_URL = "http://moonlandingsol.pythonanywhere.com/"
 
 function prep_for_api(string, year = false) {
   if (year) {
@@ -85,6 +86,7 @@ function App() {
           if (imageUrls) {
             setimageList(imageUrls);
             setloading(false);
+            //window.scrollTo(window.scrollX, window.scrollY +1000);
           }
         }
       });

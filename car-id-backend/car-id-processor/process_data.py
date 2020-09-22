@@ -1,6 +1,7 @@
 import json
-import requests
-
+import time
+import downloader
+import os
 # ! returns keys in list of dictionaries
 
 
@@ -15,9 +16,34 @@ def search(list_of_dicts, make, model):
 
 with open("../car-id-scraper/cardib.json") as f:
     car_db = json.load(f)
-    make = 'bmw'
-    model = '4-series'
-    models = all_keys(car_db[make])
-    print(search(car_db, make, model))
 
-#? The goal is to download all of the images, either as bytes or jpg/png and 
+    makes = car_db.keys()
+    for make in makes:
+        # loop through makes
+        models = all_keys(car_db[make])
+        for model in models:
+            # loop through models for each make
+            try:
+                generations = search(car_db, make, model)[model]
+                save_directory_base = "D:/Machine Learning/car-id/"+make+"/"+model + "/"
+                # loop through all the years of each model0
+                for gen in generations:
+                    images = gen['images']
+                    year = gen['year']
+                    save_directory = save_directory_base + year
+                    if not os.path.exists(save_directory):
+                        # create directories if they dont exist
+                        os.makedirs(save_directory)
+
+                    if len(os.listdir(save_directory)) == 0:
+                        file_prefix = "{}-{}-{}".format(make, model, year)
+                        downloader.batch_download(
+                            file_prefix, images, save_directory)
+                        time.sleep(1)
+                        #print(save_directory + " EXISTS ALREADY!")
+                    else:
+                        print("skipping {}, {}, {}".format(make, model, year))
+            except Exception:
+                print("skipping {}, {}".format(make, model))
+
+# ? The goal is to download all of the images, either as bytes or jpg/png and

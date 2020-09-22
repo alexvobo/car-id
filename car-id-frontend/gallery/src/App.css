@@ -8,6 +8,10 @@
 
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 .awssld {
   --slider-height-percentage: 60%;
   --slider-transition-duration: 525ms;

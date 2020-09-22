@@ -8,6 +8,15 @@
         },
         {
             "path": "..\\car-id-processor"
+        },
+        {
+            "path": "D:\\Machine Learning\\test"
+        },
+        {
+            "path": "D:\\Machine Learning\\train"
         }
-    ]
+    ],
+    "settings": {
+        "python.dataScience.jupyterServerURI": "http://localhost:8888/?token=83374ea9f62385aba4b00316cb86e14447568d31f43c5cfb"
+    }
 }
