@@ -2,9 +2,12 @@ import json
 import time
 import downloader
 import os
+
+
+SAVE_PATH = "D:/Machine Learning/cardata"
+
+
 # ! returns keys in list of dictionaries
-
-
 def all_keys(list_of_dicts):
     return set().union(*(d.keys() for d in list_of_dicts))
 # ! returns index of the requested model
@@ -19,31 +22,37 @@ with open("../car-id-scraper/cardib.json") as f:
 
     makes = car_db.keys()
     for make in makes:
+        start = time.perf_counter()
         # loop through makes
+        time.sleep(0.5)
         models = all_keys(car_db[make])
         for model in models:
             # loop through models for each make
             try:
                 generations = search(car_db, make, model)[model]
-                save_directory_base = "D:/Machine Learning/car-id/"+make+"/"+model + "/"
                 # loop through all the years of each model0
                 for gen in generations:
                     images = gen['images']
                     year = gen['year']
-                    save_directory = save_directory_base + year
-                    if not os.path.exists(save_directory):
+                    # Let's create the directories if they don't exist
+                    gen_name = "-".join(g.strip() for g in year.split("-"))
+                    folder_name = make+"_"+model+"_"+gen_name
+                    folder_dir = os.path.join(SAVE_PATH, folder_name)
+                    if not os.path.exists(folder_dir):
                         # create directories if they dont exist
-                        os.makedirs(save_directory)
+                        os.makedirs(folder_dir)
 
-                    if len(os.listdir(save_directory)) == 0:
-                        file_prefix = "{}-{}-{}".format(make, model, year)
+                    if len(os.listdir(folder_dir)) == 0:
                         downloader.batch_download(
-                            file_prefix, images, save_directory)
-                        time.sleep(1)
-                        #print(save_directory + " EXISTS ALREADY!")
+                            folder_name, images, folder_dir)
+                        time.sleep(0.5)
+                        #print(folder_name + " EXISTS ALREADY!")
                     else:
-                        print("skipping {}, {}, {}".format(make, model, year))
+                        print("already visisted {}, {}, {} ".format(
+                            make, model, year))
             except Exception:
-                print("skipping {}, {}".format(make, model))
+                print("catastrophic error {}, {}".format(make, model))
+        end = time.perf_counter()
+        print(f"{make} done in {end - start:0.4f} seconds")
 
 # ? The goal is to download all of the images, either as bytes or jpg/png and

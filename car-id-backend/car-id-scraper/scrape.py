@@ -74,7 +74,7 @@ for i in listMakes:
 
 """ Try to load json we already have. If it's not there, create file """
 car_database = {}
-with open("cardib.json", "a+") as f:
+with open("caridb64.json", "a+") as f:
     f.seek(0)
     car_database = json.load(f)
 
@@ -103,7 +103,7 @@ for count, make in enumerate(list_make_urls):
     # We have all the models for each brand. Prepare to append dictionaries of models to list
 
     if not car_database.get(make_name):
-        print('{} does not exist in db'.format(make_name))
+        #print('{} does not exist in db'.format(make_name))
         car_database[make_name] = []
 
     for model in list_model_urls:
@@ -112,7 +112,7 @@ for count, make in enumerate(list_make_urls):
         model_details = {}
         model_name = model[model[:len(
             model)-1].rfind("/")+1:len(model)-1]
-        print("Looking at  {}".format(model_name))
+        #print("Looking at  {}".format(model_name))
 
         """ If we have logged the model, skip """
         # * WE NEED TO MOVE THIS INTO GEN FOR LOOP
@@ -158,6 +158,7 @@ for count, make in enumerate(list_make_urls):
             if not images:
                 print("No images found for {} {}".format(model_name, year))
                 continue
+            
             gen_details['images'] = []
 
             for img in images:
